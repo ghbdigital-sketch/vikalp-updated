@@ -1,0 +1,3203 @@
+{
+ "pages": [
+  {
+   "no": "1",
+   "hi": "होम",
+   "en": "Home",
+   "url": "/",
+   "en_url": "/en/",
+   "seo": {
+    "kw": [
+     [
+      "pregnancy kaise roke",
+      "प्रेगनेंसी कैसे रोकें"
+     ],
+     [
+      "pregnancy ko kaise roke",
+      "प्रेगनेंसी को कैसे रोकें"
+     ],
+     [
+      "pregnancy kaise roke in hindi",
+      "pregnancy kaise roke"
+     ]
+    ],
+    "ti": [
+     "प्रेगनेंसी कैसे रोकें? Pregnancy kaise roke | विकल्प",
+     "How to prevent pregnancy | Vikalp"
+    ],
+    "md": [
+     "प्रेगनेंसी कैसे रोकें? अंतरा, छाया, माला-एन, IUCD/कॉपर-टी और कंडोम की सही जानकारी, आसान हिंदी में। सभी साधन सरकारी केंद्रों पर मुफ़्त।",
+     "How to prevent pregnancy: simple, accurate information on Antara, Chhaya, Mala-N, IUCD/Copper T and condoms. All free at government centres."
+    ],
+    "sc": "Organization, WebSite",
+    "en_kw": "how to prevent pregnancy (English equivalent; not measured)"
+   },
+   "blocks": [
+    {
+     "label": "H1 (new)",
+     "hi": "प्रेगनेंसी कैसे रोकें? परिवार नियोजन की सही जानकारी",
+     "en": "How to prevent pregnancy: trusted family planning advice"
+    },
+    {
+     "label": "Tagline (not H1)",
+     "hi": "पहला बच्चा कब, दूसरा कब? फ़ैसला आपका।",
+     "en": "First baby? Next baby? You decide when."
+    },
+    {
+     "label": "Short intro",
+     "hi": "प्रेगनेंसी को कैसे रोकें, यह जानना हर दंपति का हक़ है। यहाँ अंतरा, छाया, माला-एन, IUCD/कॉपर-टी और कंडोम की सही जानकारी आसान भाषा में है। सभी साधन सरकारी केंद्रों पर मुफ़्त हैं।",
+     "en": "Every couple has the right to know how to prevent pregnancy. Here you will find accurate information on Antara, Chhaya, Mala-N, IUCD/Copper T and condoms, in simple words. All are free at government health centres."
+    }
+   ]
+  },
+  {
+   "no": "2",
+   "hi": "पहला बच्चा कब?",
+   "en": "When to have your first baby",
+   "url": "/pehle-bachche-mein-deri",
+   "en_url": "/en/pehle-bachche-mein-deri",
+   "seo": {
+    "kw": [
+     [
+      "contraception for newly married couple",
+      "contraception for newly married couples"
+     ]
+    ],
+    "ti": [
+     "शादी के बाद पहला बच्चा कब? नए दंपति के लिए गर्भनिरोध",
+     "Contraception for newly married couples | Vikalp"
+    ],
+    "md": [
+     "शादी के बाद पहला बच्चा कब? पहली प्रेगनेंसी के लिए महिला की उम्र कम से कम 20 वर्ष हो। नए दंपति के लिए सही गर्भनिरोधक साधन, सरकारी केंद्रों पर मुफ़्त।",
+     "First child after marriage? The woman should be at least 20 for her first pregnancy. Contraception for newly married couples, free at government facilities."
+    ],
+    "sc": "MedicalWebPage, FAQPage",
+    "en_kw": "contraception for newly married couple"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "शादी के बाद पहला बच्चा कब करें, और नए दंपति के लिए कौन सा गर्भनिरोध सही है?",
+     "en": "When should you have your first baby, and which contraception suits newly married couples?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "पहली प्रेगनेंसी के लिए महिला की उम्र कम से कम 20 वर्ष होनी चाहिए। तब तक अंतरा, छाया, माला-एन, IUCD/कॉपर-टी या कंडोम में से कोई भी साधन अपनाया जा सकता है। ये सभी सरकारी स्वास्थ्य केंद्रों पर मुफ़्त हैं और साधन बंद करने पर माँ बनने की क्षमता लौट आती है।",
+     "en": "The woman should be at least 20 years of age for her first pregnancy. Until then you can use Antara, Chhaya, Mala-N, IUCD/Copper T or condoms. All are free at government health centres, and fertility returns when you stop using these methods."
+    },
+    {
+     "label": "H2",
+     "hi": "पहले बच्चे में थोड़ी देरी करने के क्या फ़ायदे हैं?",
+     "en": "Why does it help to wait a little for your first baby?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "पति-पत्नी का आपसी रिश्ता मज़बूत बनने का समय मिलता है।",
+      "नई बहू को परिवार को समझने का अवसर मिलता है।",
+      "पैसे की बचत करने का समय मिलता है।",
+      "गर्भधारण और मातृत्व के लिए शरीर को तैयार होने का समय मिलता है।"
+     ],
+     "en": [
+      "Husband and wife get time to build their relationship.",
+      "The new bride gets time to settle into the family.",
+      "The couple gets time to save money.",
+      "Her body gets time to be ready for pregnancy and motherhood."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "20 साल से कम उम्र में गर्भधारण क्यों ख़तरनाक है?",
+     "en": "Why is pregnancy before 20 risky?"
+    },
+    {
+     "label": "Body",
+     "hi": "20 साल से कम उम्र में गर्भ ठहरने से माँ को खून की कमी और कमज़ोरी हो सकती है, बच्चा कम वज़न का पैदा हो सकता है और प्रसव में जटिलताएँ बढ़ सकती हैं।",
+     "en": "Pregnancy before 20 can cause anaemia and weakness in the mother, a low-birth-weight baby and a higher risk of complications at delivery."
+    },
+    {
+     "label": "H2",
+     "hi": "नए दंपति के लिए कौन से साधन सही हैं?",
+     "en": "Which methods suit newly married couples?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "अंतरा सुई: हॉर्मोन युक्त साधन, हर 3 महीने में एक सुई, रोज़ याद रखने की ज़रूरत नहीं।",
+      "छाया गोली: हॉर्मोन-रहित; शुरू के 3 महीने हफ़्ते में दो बार और उसके बाद हफ़्ते में एक बार।",
+      "माला-एन गोली: हॉर्मोन युक्त साधन, रोज़ एक गोली, माहवारी नियमित रखती है।",
+      "IUCD/कॉपर-टी: एक बार लगवाएँ, 5 या 10 साल तक सुरक्षा; जब चाहें निकलवा सकते हैं।",
+      "कंडोम: हर बार इस्तेमाल करें; गर्भ और यौन संक्रमण, दोनों से बचाव।"
+     ],
+     "en": [
+      "Antara injection: a hormonal method, one injection every 3 months, nothing to remember daily.",
+      "Chhaya pill: hormone-free; twice a week for the first 3 months, and once a week after that.",
+      "Mala-N pill: a hormonal method, one pill a day, keeps periods regular.",
+      "IUCD/Copper T: inserted once, protects for 5 or 10 years; can be removed whenever you want.",
+      "Condom: use every time; protects against both pregnancy and sexual infections."
+     ]
+    },
+    {
+     "label": "Effectiveness note",
+     "hi": "पहला बच्चा होने से पहले इन साधनों का उपयोग करना सुरक्षित है। इनके इस्तेमाल से बाँझपन नहीं होता।",
+     "en": "All these methods are safe to use before the first child. None of them causes infertility."
+    },
+    {
+     "label": "Myth card",
+     "hi": "सुनी-सुनाई: पहला बच्चा होने से पहले गर्भनिरोधक साधन अपनाने से बाद में बच्चा नहीं होता। सच: नहीं, साधन बंद करने पर माँ बनने की क्षमता लौट आती है।",
+     "en": "Myth: Using a method before the first child stops you having children later. Fact: No. Fertility returns when the method is stopped and the woman is able to get pregnant again."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "शादी के कितने समय बाद बच्चा होना चाहिए? → पहली बार गर्भधारण के लिए महिला की उम्र कम से कम 20 वर्ष होनी चाहिए।",
+      "क्या नवविवाहित महिला अंतरा ले सकती है? → हाँ, अगर वह फ़िलहाल बच्चा नहीं चाहती तो अंतरा एक अच्छा विकल्प है।",
+      "अगर परिवार जल्दी बच्चे का दबाव डाले तो? → \"पति-पत्नी के लिए\" पेज पढ़ें, या सखी हेल्पलाइन पर बात करें।"
+     ],
+     "en": [
+      "How long after marriage should we have a child? → The woman should be at least 20 years of age for the first pregnancy.",
+      "Can a newly married woman use Antara? → Yes, if she does not want a child yet, Antara is a good option.",
+      "What if the family pressures us to have a child soon? → Read \"For couples\", or talk to the Sakhi Helpline."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "साधनों की तुलना करें → | क्या सेफ़ डेज़ भरोसेमंद हैं? → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Compare methods → | Are safe days reliable? → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "3",
+   "hi": "दूसरा बच्चा कब?",
+   "en": "When to have your second baby",
+   "url": "/bachchon-mein-antar",
+   "en_url": "/en/bachchon-mein-antar",
+   "seo": {
+    "kw": [
+     [
+      "parivar niyojan ke labh",
+      "परिवार नियोजन के लाभ"
+     ]
+    ],
+    "ti": [
+     "परिवार नियोजन के लाभ: दो बच्चों में अंतर कितना?",
+     "Benefits of family planning: spacing children | Vikalp"
+    ],
+    "md": [
+     "परिवार नियोजन के लाभ जानें: दो बच्चों में कम से कम 3 साल का अंतर माँ और बच्चे दोनों के लिए अच्छा है। अंतर रखने के साधन।",
+     "The benefits of family planning: why a gap of at least 3 years between children is good for mother and child, and the methods for spacing."
+    ],
+    "sc": "MedicalWebPage, FAQPage",
+    "en_kw": "benefits of family planning (not measured)"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "दो बच्चों में कितना अंतर रखें, और क्यों?",
+     "en": "How much gap should you keep between two children, and why?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "दो बच्चों के बीच कम से कम 3 साल का अंतर रखें। इससे माँ का शरीर फिर से मज़बूत होता है, पहले बच्चे की अच्छी देखभाल होती है और अगला बच्चा भी स्वस्थ पैदा होता है। डिलीवरी के बाद भी कई साधन सुरक्षित हैं।",
+     "en": "Keep a gap of at least 3 years between two children. It lets the mother's body recover, the first child gets proper care and the next baby is born healthier. Several methods are safe right after delivery."
+    },
+    {
+     "label": "H2",
+     "hi": "दो बच्चों के बीच 3 साल का अंतर रखने के क्या लाभ हैं?",
+     "en": "What are the benefits of keeping a gap of 3 years between children?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "पहले बच्चे पर अधिक ध्यान और देखभाल करने का अवसर मिलता है।",
+      "पैसे की बचत करने का समय मिलता है।",
+      "माता-पिता को अपने रिश्ते को मज़बूत बनाने का समय मिलता है।",
+      "पहले बच्चे के बाद माँ के शरीर को फिर से मज़बूत बनने का समय मिलता है।",
+      "पहला बच्चा थोड़ा बड़ा हो जाए तो नए बच्चे की ज़िम्मेदारी आसानी से संभलती है।"
+     ],
+     "en": [
+      "More time and attention for the first child.",
+      "Time to save money.",
+      "Time for the parents to strengthen their relationship.",
+      "Time for the mother's body to recover after the first child.",
+      "When the first child is a little older, a new baby is easier to manage."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "दो बच्चों में अंतर रखने के लिए कौन से साधन हैं?",
+     "en": "Which methods help you space your children?"
+    },
+    {
+     "label": "Body",
+     "hi": "IUCD/कॉपर-टी (5 या 10 साल), अंतरा सुई (हर 3 महीने), छाया गोली (हफ़्ते में), माला-एन गोली (रोज़) और कंडोम, सभी अंतर रखने के लिए सही हैं। अगर बच्चा अभी छोटा है और आप दूध पिला रही हैं, तो \"डिलीवरी के बाद\" पेज देखें।",
+     "en": "IUCD/Copper T (5 or 10 years), Antara injection (every 3 months), Chhaya pill (weekly), Mala-N pill (daily) and condoms all work well for spacing. If your baby is small and you are breastfeeding, see \"After delivery\"."
+    },
+    {
+     "label": "Myth card",
+     "hi": "सुनी-सुनाई: दूध पिलाते समय गर्भ नहीं ठहरता। सच: दूध पिलाते समय भी गर्भ ठहर सकता है, चाहे माहवारी आनी शुरू न भी हुई हो। डिलीवरी के बाद भी कोई सुरक्षित साधन अपनाएँ।",
+     "en": "Myth: You cannot get pregnant while breastfeeding. Fact: You can get pregnant while breastfeeding, even before your periods resume. Use a safe method after delivery too."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "दो बच्चों के बीच कितना अंतर होना चाहिए? → कम से कम 3 साल।",
+      "क्या छोटे बच्चे की माँ अंतरा ले सकती है? → हाँ, डिलीवरी के 6 हफ़्ते बाद अंतरा इंजेक्शन लगवाया जा सकता है, और इससे दूध पर असर नहीं होता।",
+      "क्या डिलीवरी के तुरंत बाद IUCD/कॉपर-टी लगवा सकते हैं? → हाँ, \"डिलीवरी के बाद\" पेज पढ़ें।"
+     ],
+     "en": [
+      "How big a gap between two children? → At least 3 years.",
+      "Can the mother of a small baby take Antara? → Yes, Antara can be given 6 weeks after delivery, and it does not affect breast milk.",
+      "Can an IUCD/Copper T be inserted right after delivery? → Yes, see \"After delivery\"."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "डिलीवरी के बाद → | साधनों की तुलना करें → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "After delivery → | Compare methods → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "3.1",
+   "hi": "डिलीवरी के बाद",
+   "en": "After delivery",
+   "url": "/bachchon-mein-antar/delivery-ke-baad",
+   "en_url": "/en/bachchon-mein-antar/delivery-ke-baad",
+   "seo": {
+    "kw": [
+     [
+      "delivery ke baad pregnancy kaise roke",
+      "डिलीवरी के बाद प्रेगनेंसी कैसे रोकें"
+     ],
+     [
+      "delivery ke baad copper t",
+      "डिलीवरी के बाद कॉपर टी"
+     ]
+    ],
+    "ti": [
+     "डिलीवरी के बाद प्रेगनेंसी कैसे रोकें? | विकल्प",
+     "How to prevent pregnancy after delivery | Vikalp"
+    ],
+    "md": [
+     "डिलीवरी के बाद प्रेगनेंसी कैसे रोकें: IUCD/कॉपर-टी 48 घंटे के अंदर, छाया तुरंत, अंतरा 6 हफ़्ते बाद। दूध पिलाते समय सुरक्षित साधन।",
+     "Preventing pregnancy after delivery: IUCD/Copper T within 48 hours, Chhaya straight away, Antara after 6 weeks. Methods that are safe while breastfeeding."
+    ],
+    "sc": "MedicalWebPage, FAQPage",
+    "en_kw": "contraception after delivery (not measured)"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "डिलीवरी के बाद प्रेगनेंसी कैसे रोकें?",
+     "en": "How can you prevent pregnancy after delivery?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "डिलीवरी के बाद माहवारी लौटने से पहले भी गर्भ ठहर सकता है। IUCD/कॉपर-टी डिलीवरी के 48 घंटों के अंदर अस्पताल में ही लगवाई जा सकती है, छाया गोली डिलीवरी के तुरंत बाद शुरू कर सकते हैं, और अंतरा सुई 6 हफ़्ते बाद लगवा सकते हैं। कंडोम कभी भी इस्तेमाल कर सकते हैं।",
+     "en": "You can get pregnant after delivery even before your periods return. An IUCD/Copper T can be inserted at the hospital within 48 hours of delivery, Chhaya can be started straight away and Antara after 6 weeks. Condoms can be used at any time."
+    },
+    {
+     "label": "H2",
+     "hi": "डिलीवरी के बाद कौन सा साधन कब शुरू करें?",
+     "en": "Which method can you start after delivery, and when?"
+    },
+    {
+     "label": "Table",
+     "hi": [
+      "IUCD/कॉपर-टी (PPIUCD): डिलीवरी के 48 घंटे के अंदर, या 6 हफ़्ते बाद। दूध पर कोई असर नहीं।",
+      "छाया गोली: डिलीवरी के तुरंत बाद शुरू कर सकते हैं। हॉर्मोन-रहित, दूध पिलाते समय सुरक्षित।",
+      "अंतरा सुई: डिलीवरी के 6 हफ़्ते बाद। दूध पर कोई असर नहीं।",
+      "माला-एन गोली: दूध पिला रही हैं तो डिलीवरी के 6 महीने बाद, सेवा प्रदाता की सलाह से।",
+      "कंडोम: कभी भी।"
+     ],
+     "en": [
+      "IUCD/Copper T (PPIUCD): within 48 hours of delivery, or after 6 weeks. No effect on breast milk.",
+      "Chhaya pill: can be started right after delivery. Hormone-free and safe while breastfeeding.",
+      "Antara injection: 6 weeks after delivery. No effect on breast milk.",
+      "Mala-N pill: if breastfeeding, 6 months after delivery, on a healthcare provider's advice.",
+      "Condom: any time."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "क्या डिलीवरी के बाद IUCD/कॉपर-टी लगवा सकते हैं?",
+     "en": "Can you get an IUCD/Copper T right after delivery?"
+    },
+    {
+     "label": "Body",
+     "hi": "सरकारी अस्पताल में डिलीवरी के बाद, जाने से पहले ही IUCD/कॉपर-टी मुफ़्त लगवाई जा सकती है। इसके लिए अलग से अस्पताल आने की ज़रूरत नहीं पड़ती। यह 5 या 10 साल तक सुरक्षा देती है और जब चाहें निकलवाई जा सकती है। पहली जाँच 6 हफ़्ते के अंदर करवाएँ।",
+     "en": "After delivering at a government hospital, you can get an IUCD/Copper T inserted free before going home, so there is no separate visit. It protects for 5 or 10 years and can be removed whenever you choose. Have the first check-up within 6 weeks."
+    },
+    {
+     "label": "Myth card",
+     "hi": "सुनी-सुनाई: दूध पिलाने से अपने आप ही गर्भ नहीं ठहरता है। सच: नहीं। यह तरीका पूरी तरह सुरक्षित नहीं है। दूध पिलाने पर भी गर्भ ठहर सकता है, चाहे माहवारी शुरू न भी हुई हो। कोई साधन ज़रूर अपनाएँ।",
+     "en": "Myth: Breastfeeding prevents pregnancy by itself. Fact: No. It is not an effective way of contraception. A woman may get pregnant even before her periods resume, so use a method."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "क्या दूध पिलाते समय छाया ले सकते हैं? → हाँ, यह हॉर्मोन-रहित है।",
+      "ऑपरेशन (सिज़ेरियन) से डिलीवरी हुई हो तो? → IUCD/कॉपर-टी ऑपरेशन के समय भी लगाई जा सकती है; सेवा प्रदाता से पूछें।",
+      "माहवारी नहीं आई तो क्या गर्भ ठहर सकता है? → हाँ, इसलिए पहले से साधन शुरू करें।"
+     ],
+     "en": [
+      "Can I take Chhaya while breastfeeding? → Yes, it is hormone-free.",
+      "What if I had a caesarean? → An IUCD/Copper T can be inserted during the operation too; ask your healthcare provider.",
+      "Can I get pregnant before my periods return? → Yes, so start a method early."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "IUCD/कॉपर-टी → | छाया → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "IUCD/Copper T → | Chhaya → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "4",
+   "hi": "गर्भनिरोध के साधन",
+   "en": "Contraceptive methods",
+   "url": "/garbhnirodh-ke-saadhan",
+   "en_url": "/en/garbhnirodh-ke-saadhan",
+   "seo": {
+    "kw": [
+     [
+      "pregnancy rokne ke upay",
+      "प्रेगनेंसी रोकने के उपाय"
+     ],
+     [
+      "pregnancy ko rokne ke upay",
+      "प्रेगनेंसी रोकने के उपाय"
+     ],
+     [
+      "anchahi pregnancy kaise roke",
+      "अनचाही प्रेगनेंसी कैसे रोकें"
+     ],
+     [
+      "pregnancy se bachne ke upay",
+      "प्रेगनेंसी से बचने के उपाय"
+     ],
+     [
+      "pregnancy rokne ka tarika",
+      "प्रेगनेंसी रोकने का तरीका"
+     ],
+     [
+      "pregnancy rokne ke tarike",
+      "प्रेगनेंसी रोकने का तरीका"
+     ],
+     [
+      "प्रेगनेंसी रोकने के उपाय",
+      "प्रेगनेंसी रोकने के उपाय"
+     ],
+     [
+      "long acting reversible contraception",
+      "long-acting reversible contraception"
+     ],
+     [
+      "long acting contraception",
+      "long-acting contraception"
+     ]
+    ],
+    "ti": [
+     "प्रेगनेंसी रोकने के उपाय: सभी साधन और उनका असर",
+     "All contraceptive methods and how well they work | Vikalp"
+    ],
+    "md": [
+     "प्रेगनेंसी रोकने के उपाय और तरीके: अंतरा, छाया, माला-एन, IUCD/कॉपर-टी, कंडोम। कौन सा कितना असरदार, चार्ट के साथ। सरकारी केंद्रों पर मुफ़्त।",
+     "Every way to prevent pregnancy, including long-acting reversible contraception (IUCD/Copper T, Antara), with an effectiveness chart. All free."
+    ],
+    "sc": "MedicalWebPage, FAQPage",
+    "en_kw": "long acting reversible contraception · long acting contraception"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "प्रेगनेंसी रोकने के उपाय क्या हैं, और कौन सा कितना असरदार है?",
+     "en": "What are the ways to prevent pregnancy, and how well does each work?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "अनचाही प्रेगनेंसी रोकने के लिए कई सुरक्षित साधन हैं: अंतरा सुई, छाया गोली, माला-एन गोली, IUCD/कॉपर-टी, कंडोम, और ज़रूरत पड़ने पर आपातकालीन गोली। ये सब अस्थाई हैं, यानी बंद करने पर माँ बनने की क्षमता लौट आती है, और सभी सरकारी स्वास्थ्य केंद्रों पर मुफ़्त मिलते हैं।",
+     "en": "There are several safe ways to prevent an unwanted pregnancy: Antara injection, Chhaya pill, Mala-N pill, IUCD/Copper T, condoms and, when needed, the emergency pill. All are reversible, so fertility returns when you stop, and all are free at government health centres."
+    },
+    {
+     "label": "H2",
+     "hi": "अनचाही प्रेगनेंसी कैसे रोकें?",
+     "en": "How can you prevent an unwanted pregnancy?"
+    },
+    {
+     "label": "Body",
+     "hi": "प्रेगनेंसी रोकने का तरीका चुनते समय सोचें: आप कितने समय तक बच्चा नहीं चाहतीं, रोज़ गोली याद रख सकती हैं या नहीं, और दूध पिला रही हैं या नहीं। हर ज़रूरत के लिए एक सही साधन है। नीचे दिए साधनों पर टैप करें, या दो साधनों की तुलना करें।",
+     "en": "When choosing a way to prevent pregnancy, think about how long you want to wait, whether you can remember a daily pill, and whether you are breastfeeding. There is a right method for every need. Tap a method below, or compare two."
+    },
+    {
+     "label": "Method cards",
+     "hi": [
+      "अंतरा: हर 3 महीने में एक सुई",
+      "छाया: हॉर्मोन-रहित, हफ़्ते में एक गोली",
+      "माला-एन: रोज़ एक गोली",
+      "IUCD/कॉपर-टी: 5 या 10 साल तक",
+      "कंडोम: हर बार, संक्रमण से भी बचाव",
+      "आपातकालीन गोली: असुरक्षित संबंध के 72 घंटे के अंदर, सिर्फ़ आपात स्थिति में"
+     ],
+     "en": [
+      "Antara: one injection every 3 months",
+      "Chhaya: hormone-free, one pill a week",
+      "Mala-N: one pill a day",
+      "IUCD/Copper T: 5 or 10 years",
+      "Condom: use every time; also protects against infections",
+      "Emergency pill: within 72 hours of unprotected intercourse, emergencies only"
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "प्रेगनेंसी से बचने के उपाय कितने असरदार हैं?",
+     "en": "How effective is each way to avoid pregnancy?"
+    },
+    {
+     "label": "Effectiveness chart",
+     "hi": [
+      "सबसे ज़्यादा असरदार (1 साल में 100 में से 1 से कम महिला गर्भवती): पुरुष नसबंदी, महिला नसबंदी, IUCD/कॉपर-टी",
+      "बहुत असरदार (100 में से 10 से कम): अंतरा इंजेक्शन (हर 3 महीने), माला-एन (रोज़ की गोली), छाया (हफ़्ते की गोली)",
+      "कम असरदार (100 में से 10 से 20): पुरुष कंडोम, सुरक्षित दिनों की पहचान (प्रजनन जागरूकता विधियाँ)",
+      "सबसे कम असरदार (100 में से 20 से ज़्यादा): विड्रॉल (बाह्य स्खलन विधि), शुक्राणुनाशक, महिला कंडोम",
+      "चार्ट IDF के \"गर्भनिरोधक साधनों की प्रभावशीलता उनके साधारण इस्तेमाल पर\" से (स्रोत: Family Planning: A Global Handbook for Providers)।"
+     ],
+     "en": [
+      "Most effective (fewer than 1 in 100 women pregnant in a year): male sterilisation, female sterilisation, IUCD/Copper T",
+      "Very effective (fewer than 10 in 100): Antara injection (every 3 months), Mala-N (daily pill), Chhaya (weekly pill)",
+      "Less effective (10 to 20 in 100): male condom, safe-day counting (fertility awareness methods)",
+      "Least effective (more than 20 in 100): withdrawal, spermicides, female condom",
+      "Chart from IDF's \"Effectiveness of contraceptive methods with typical use\" (source: Family Planning: A Global Handbook for Providers)."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "लंबे समय तक चलने वाले (लॉन्ग एक्टिंग) साधन कौन से हैं?",
+     "en": "What is long-acting reversible contraception (LARC)?"
+    },
+    {
+     "label": "Body",
+     "hi": "IUCD/कॉपर-टी एक बार लगवाने पर 5 या 10 साल तक काम करती है, और अंतरा इंजेक्शन 3 महीने तक। इन लॉन्ग एक्टिंग साधनों में रोज़ कुछ याद रखने की ज़रूरत नहीं, और बंद करने पर माँ बन सकती हैं।",
+     "en": "Long-acting contraception means a method that works for months or years without daily effort. An IUCD/Copper T works for 5 or 10 years after one insertion, and an Antara injection for 3 months. Both are reversible: you can become pregnant once you stop."
+    },
+    {
+     "label": "H2",
+     "hi": "स्थाई साधन कौन से हैं?",
+     "en": "What are the permanent methods?"
+    },
+    {
+     "label": "Body",
+     "hi": "जो दंपति निश्चित रूप से और बच्चे नहीं चाहते, वे महिला या पुरुष नसबंदी करवा सकते हैं। यह सभी सरकारी स्वास्थ्य केंद्रों पर मुफ़्त है। पुरुष नसबंदी के बाद 3 महीने तक कंडोम ज़रूरी है।",
+     "en": "Couples who are sure they want no more children can choose female or male sterilisation. It is free at all government health centres. After male sterilisation, condoms are needed for 3 months."
+    },
+    {
+     "label": "Guide cards (उपयोगी जानकारी)",
+     "hi": [
+      "क्या सेफ़ डेज़ भरोसेमंद हैं?",
+      "साइड इफ़ेक्ट हों तो क्या करें?",
+      "पति बाहर रहते हों तो?"
+     ],
+     "en": [
+      "Are safe days reliable?",
+      "Having side effects?",
+      "When your husband lives away"
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "साधनों की तुलना करें → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Compare methods → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "4.1",
+   "hi": "अंतरा इंजेक्शन",
+   "en": "Antara injection",
+   "url": "/garbhnirodh-ke-saadhan/antara",
+   "en_url": "/en/garbhnirodh-ke-saadhan/antara",
+   "seo": {
+    "kw": [
+     [
+      "अंतरा इंजेक्शन price",
+      "अंतरा इंजेक्शन की कीमत"
+     ],
+     [
+      "antara injection for contraception",
+      "antara injection for contraception"
+     ],
+     [
+      "antara garbh nirodhak injection",
+      "अंतरा गर्भनिरोधक इंजेक्शन"
+     ],
+     [
+      "अंतरा गर्भनिरोधक इंजेक्शन",
+      "अंतरा गर्भनिरोधक इंजेक्शन"
+     ]
+    ],
+    "ti": [
+     "अंतरा गर्भनिरोधक इंजेक्शन: कीमत और लगवाने का समय",
+     "Antara injection for contraception: price, use | Vikalp"
+    ],
+    "md": [
+     "अंतरा गर्भनिरोधक इंजेक्शन हर 3 महीने में। कब लगवाएँ, कीमत, सामान्य बदलाव, और सरकारी केंद्रों पर मुफ़्त।",
+     "The Antara injection for contraception, given every 3 months: when to start, price, normal changes, and free at government centres."
+    ],
+    "sc": "MedicalWebPage (Drug), FAQPage",
+    "en_kw": "antara injection for contraception · antara injection price"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "अंतरा गर्भनिरोधक इंजेक्शन क्या है, और यह कहाँ मुफ़्त लगता है?",
+     "en": "What is the Antara injection for contraception, and where can you get it free?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "अंतरा एक हॉर्मोन युक्त गर्भनिरोधक सुई है जो हर 3 महीने में लगती है। यह बहुत असरदार और सुरक्षित है। सरकारी स्वास्थ्य केंद्रों पर यह मुफ़्त लगती है; प्राइवेट क्लिनिक में इसका शुल्क अलग-अलग होता है।",
+     "en": "Antara is a hormonal contraceptive injection given every 3 months. It is very effective and safe. It is free at government health centres; private clinics charge varying fees."
+    },
+    {
+     "label": "H2",
+     "hi": "अंतरा इंजेक्शन कब लगवाएँ?",
+     "en": "When should you get the Antara injection?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "पहली सुई माहवारी शुरू होने के 7 दिनों के अंदर।",
+      "गर्भपात के 7 दिन के अंदर, या डिलीवरी के 6 हफ़्ते बाद।",
+      "या कभी भी, जब यह पक्का हो कि महिला गर्भवती नहीं है।",
+      "सुई लगने के 5 से 7 दिन में असर शुरू होता है।"
+     ],
+     "en": [
+      "First injection within 7 days of the start of a period.",
+      "Within 7 days of an abortion, or 6 weeks after delivery.",
+      "Or at any time when it is certain she is not pregnant.",
+      "It starts working in 5 to 7 days after giving the injection."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "अंतरा इंजेक्शन के क्या फ़ायदे हैं?",
+     "en": "What are the benefits of Antara?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "माहवारी से पहले और माहवारी के दौरान होने वाला दर्द कम करती है।",
+      "माहवारी अस्थायी रूप से बंद होने से खून की कमी (एनीमिया) वाली महिलाओं को लाभ मिलता है।",
+      "गर्भाशय और अंडाशय के कैंसर से सुरक्षा देती है।",
+      "दूध पिलाने वाली माँ के लिए सुरक्षित; दूध पर असर नहीं।"
+     ],
+     "en": [
+      "Reduces pain before and during periods.",
+      "Helps women with anaemia by stopping periods temporarily.",
+      "Protects against cancer of the uterus and ovaries.",
+      "Safe for breastfeeding mothers; no effect on milk."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "अंतरा से कौन से बदलाव सामान्य हैं?",
+     "en": "What changes are normal with Antara?"
+    },
+    {
+     "label": "Body",
+     "hi": "शुरू के 2 से 3 महीनों में जी मिचलाना, दाग लगना या सिर दर्द हो सकता है, जो अस्थाई है। माहवारी अनियमित हो सकती है या बंद हो सकती है; यह नुकसानदेह नहीं है। माहवारी बंद होना अपने-आप में गर्भ का प्रमाण नहीं है, और न ही शरीर में कोई गंदा खून जमा होता है। आख़िरी सुई के बाद माँ बनने की क्षमता लौटने में 7 से 10 महीने लग सकते हैं।",
+     "en": "For the first 2 to 3 months there may be nausea, spotting or headache, which pass. Periods may become irregular or stop; this is not harmful. Periods stopping is not in itself a sign of pregnancy, and no \"dirty blood\" collects in the body. Fertility can take 7 to 10 months to return after the last injection."
+    },
+    {
+     "label": "Problems link",
+     "hi": "परेशानी ज़्यादा या लंबी हो तो पढ़ें: साइड इफ़ेक्ट हों तो →",
+     "en": "If a problem is severe or lasts long: read Side effects →"
+    },
+    {
+     "label": "H2",
+     "hi": "अंतरा इंजेक्शन की कीमत क्या है?",
+     "en": "What is the Antara injection price?"
+    },
+    {
+     "label": "Body",
+     "hi": "सरकारी स्वास्थ्य केंद्रों पर अंतरा गर्भनिरोधक इंजेक्शन मुफ़्त लगता है। प्राइवेट क्लिनिक और अस्पताल में शुल्क अलग-अलग होता है। पहला इंजेक्शन हमेशा डॉक्टर की देखरेख में लगवाएँ।",
+     "en": "The Antara contraceptive injection is free at government health centres. Private clinics and hospitals charge varying fees. Always have the first injection under a doctor's supervision."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "क्या अंतरा से माहवारी रुक जाती है? → कुछ महिलाओं में; यह सामान्य है और सुई बंद करने पर लौट आती है।",
+      "क्या थायराइड की मरीज़ अंतरा ले सकती है? → हाँ।",
+      "क्या 6 डोज़ के बाद बंद करनी चाहिए? → नहीं, जब तक गर्भनिरोध चाहिए, ले सकती हैं।"
+     ],
+     "en": [
+      "Does Antara stop periods? → In some women; this is normal and periods return after stopping.",
+      "Can a woman with thyroid disease take Antara? → Yes.",
+      "Should it be stopped after 6 doses? → No, you can continue as long as you need contraception."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "साधनों की तुलना करें → | छाया → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Compare methods → | Chhaya → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "4.2",
+   "hi": "छाया गोली",
+   "en": "Chhaya pill",
+   "url": "/garbhnirodh-ke-saadhan/chhaya",
+   "en_url": "/en/garbhnirodh-ke-saadhan/chhaya",
+   "seo": {
+    "kw": [
+     [
+      "chhaya garbh nirodhak",
+      "छाया गर्भनिरोधक"
+     ],
+     [
+      "छाया गर्भ निरोधक गोली",
+      "छाया गर्भ निरोधक गोली"
+     ],
+     [
+      "hormone free contraceptive pill",
+      "hormone-free contraceptive pill"
+     ],
+     [
+      "non hormonal birth control pills",
+      "non-hormonal birth control pills"
+     ]
+    ],
+    "ti": [
+     "छाया गर्भ निरोधक गोली: हॉर्मोन-रहित, हफ़्ते में एक",
+     "Chhaya: hormone-free contraceptive pill | Vikalp"
+    ],
+    "md": [
+     "छाया गर्भ निरोधक गोली बिना हॉर्मोन की है, हफ़्ते में एक बार। कैसे लें, गोली भूलें तो क्या करें।",
+     "Chhaya is a hormone-free contraceptive pill taken once a week. How to take it, what to do if you miss one, "
+    ],
+    "sc": "MedicalWebPage (Drug), FAQPage",
+    "en_kw": "hormone free contraceptive pill · non hormonal birth control pills"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "छाया गर्भनिरोधक गोली क्या है, और इसे कैसे लें?",
+     "en": "What is Chhaya, the hormone-free contraceptive pill, and how do you take it?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "छाया गर्भ निरोधक गोली सुरक्षित, असरदार और हॉर्मोन-रहित है। शुरू के 3 महीने यह हफ़्ते में 2 बार और उसके बाद हफ़्ते में 1 बार ली जाती है। यह सरकारी स्वास्थ्य केंद्रों पर मुफ़्त मिलती है और दवा की दुकानों पर अलग-अलग ब्रांड नाम से।",
+     "en": "Chhaya is a safe, effective, hormone-free contraceptive pill, one of the few non-hormonal birth control pills. It is taken twice a week for the first 3 months and once a week after that. It is free at government health centres and sold at chemists under different brand names."
+    },
+    {
+     "label": "H2",
+     "hi": "छाया गोली कैसे लें?",
+     "en": "How do you take Chhaya?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "माहवारी के पहले दिन से, या डिलीवरी के तुरंत बाद शुरू करें।",
+      "पहले 3 महीने: हफ़्ते में 2 तय दिनों पर एक-एक गोली (जैसे रविवार और बुधवार)।",
+      "चौथे महीने से: हफ़्ते में 1 तय दिन पर एक गोली (जैसे हर रविवार)।",
+      "गर्भपात के बाद: सेवा प्रदाता की सलाह से।"
+     ],
+     "en": [
+      "Start on the first day of a period, or right after delivery.",
+      "First 3 months: one pill on 2 fixed days a week (for example Sunday and Wednesday).",
+      "From the 4th month: one pill on 1 fixed day a week (for example every Sunday).",
+      "After an abortion: on a healthcare provider's advice."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "छाया की गोली भूल जाएँ तो क्या करें?",
+     "en": "What if you miss a Chhaya pill?"
+    },
+    {
+     "label": "Body",
+     "hi": "एक गोली भूल जाएँ तो याद आते ही ले लें, अगली गोली तय दिन पर ही लें और अगली माहवारी आने तक कंडोम इस्तेमाल करें। दो गोलियाँ भूल जाएँ तो तुरंत सेवा प्रदाता से मिलें।",
+     "en": "If you miss one pill, take it as soon as you remember, take the next one on the usual day and use condoms till your next period. If you miss two, see a healthcare provider straight away."
+    },
+    {
+     "label": "H2",
+     "hi": "छाया से कौन से बदलाव सामान्य हैं?",
+     "en": "What changes are normal with Chhaya?"
+    },
+    {
+     "label": "Body",
+     "hi": "माहवारी कुछ देर से आ सकती है या खून कम आ सकता है। यह नुकसानदेह नहीं है। हॉर्मोन न होने से इससे घबराहट या वज़न बढ़ने की शिकायत नहीं होती।",
+     "en": "Periods may come a little late or be lighter. This is not harmful. Because it has no hormones, it does not cause anxiety or weight gain."
+    },
+    {
+     "label": "Problems link",
+     "hi": "माहवारी बहुत देर से आए तो पढ़ें: साइड इफ़ेक्ट हों तो →",
+     "en": "If a period is very late: read Side effects →"
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "क्या छाया माला-एन से कमज़ोर है? → नहीं, दोनों असरदार हैं।",
+      "क्या दूध पिलाते समय ले सकती हैं? → हाँ।",
+      "क्या इसके साइड इफ़ेक्ट हैं? → बहुत कम, जैसे माहवारी में थोड़ा बदलाव।"
+     ],
+     "en": [
+      "Is Chhaya weaker than Mala-N? → No, both are effective.",
+      "Can I take it while breastfeeding? → Yes.",
+      "Does it have side effects? → Very few, such as small changes in periods."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "साधनों की तुलना करें → | माला-एन → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Compare methods → | Mala-N → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "4.3",
+   "hi": "माला-एन गोली",
+   "en": "Mala-N pill",
+   "url": "/garbhnirodh-ke-saadhan/mala-n",
+   "en_url": "/en/garbhnirodh-ke-saadhan/mala-n",
+   "seo": {
+    "kw": [
+     [
+      "गर्भ निरोधक गोली नाम",
+      "गर्भ निरोधक गोलियों के नाम"
+     ],
+     [
+      "गर्भनिरोधक गोली price",
+      "गर्भनिरोधक गोलियों के नाम और कीमत"
+     ],
+     [
+      "गर्भ निरोधक टेबलेट price",
+      "गर्भ निरोधक टेबलेट"
+     ]
+    ],
+    "ti": [
+     "माला-एन: गर्भ निरोधक गोली के नाम, कीमत और तरीका",
+     "Mala-N contraceptive pill: how to take it | Vikalp"
+    ],
+    "md": [
+     "माला-एन रोज़ की गर्भ निरोधक गोली है। गोलियों के नाम, कीमत, लेने का तरीका और गोली भूल जाएँ तो क्या करें। सरकारी केंद्रों पर मुफ़्त।",
+     "Mala-N is a daily contraceptive pill. Pill names, price, how to take it and what to do if you miss one. Free at government centres."
+    ],
+    "sc": "MedicalWebPage (Drug), FAQPage",
+    "en_kw": "mala n contraceptive pill (not measured)"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "माला-एन गर्भनिरोधक गोली क्या है, और इसे कैसे लें?",
+     "en": "What is the Mala-N contraceptive pill, and how do you take it?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "माला-एन रोज़ ली जाने वाली हॉर्मोन युक्त गर्भनिरोधक गोली है। एक पत्ते में 28 गोलियाँ होती हैं: 21 सफ़ेद हॉर्मोन वाली और 7 काली आयरन की। यह सरकारी स्वास्थ्य केंद्रों पर मुफ़्त है और दवा की दुकानों पर अलग-अलग ब्रांड नाम से मिलती है।",
+     "en": "Mala-N is a daily hormonal contraceptive pill. Each strip has 28 pills: 21 white hormone pills and 7 black iron pills. It is free at government health centres and sold at chemists under different brand names."
+    },
+    {
+     "label": "H2",
+     "hi": "माला-एन गोली कैसे लें?",
+     "en": "How do you take Mala-N?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "माहवारी शुरू होने के पहले 5 दिनों में शुरू करें।",
+      "रोज़ तय समय पर एक गोली, पत्ते पर बने तीर के निशान के क्रम में।",
+      "पत्ता ख़त्म होते ही अगले दिन से नया पत्ता शुरू करें।",
+      "दूध पिला रही हैं तो डिलीवरी के 6 महीने बाद; गर्भपात के बाद सेवा प्रदाता की सलाह से।"
+     ],
+     "en": [
+      "Start within the first 5 days of a period.",
+      "One pill at the same time every day, following the arrows on the strip.",
+      "Start the next strip the day after you finish one.",
+      "If breastfeeding, 6 months after delivery; and after an abortion, on a healthcare provider's advice."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "माला-एन की गोली भूल जाएँ तो क्या करें?",
+     "en": "What if you miss a Mala-N pill?"
+    },
+    {
+     "label": "Body",
+     "hi": "याद आते ही एक गोली ले लें और अगली गोली रोज़ के समय पर लें। एक से ज़्यादा गोली छूट जाए तो सेवा प्रदाता से संपर्क करें।",
+     "en": "Take one pill as soon as you remember and the next at the usual time. If you miss more than one, contact a healthcare provider."
+    },
+    {
+     "label": "H2",
+     "hi": "माला-एन के क्या फ़ायदे हैं?",
+     "en": "What are the benefits of Mala-N?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "माहवारी नियमित करती है।",
+      "माहवारी का दर्द और ज़्यादा खून आना कम करती है।",
+      "बंद करने पर जल्दी माँ बन सकती हैं।"
+     ],
+     "en": [
+      "Makes periods regular.",
+      "Reduces period pain and heavy bleeding.",
+      "Fertility returns soon after stopping."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "माला-एन से कौन से बदलाव सामान्य हैं?",
+     "en": "What changes are normal with Mala-N?"
+    },
+    {
+     "label": "Body",
+     "hi": "शुरू में जी मिचलाना, दाग लगना या सिर दर्द हो सकता है, जो कुछ समय में ठीक हो जाता है। कुछ महिलाओं का थोड़ा वज़न बढ़ सकता है, पर यह मोटापा नहीं है।",
+     "en": "At first there may be nausea, spotting or headache, which settle with time. Some women gain a little weight, but it does not cause obesity."
+    },
+    {
+     "label": "Problems link",
+     "hi": "परेशानी ज़्यादा या लंबी हो तो पढ़ें: साइड इफ़ेक्ट हों तो →",
+     "en": "If a problem is severe or lasts long: read Side effects →"
+    },
+    {
+     "label": "H2",
+     "hi": "गर्भनिरोधक गोलियों के नाम और कीमत क्या हैं?",
+     "en": "What are the contraceptive pill names and prices?"
+    },
+    {
+     "label": "Body",
+     "hi": "सरकारी केंद्रों पर मिलने वाली गर्भ निरोधक गोलियों के नाम हैं: माला-एन (रोज़ की हॉर्मोन वाली गोली) और छाया (हफ़्ते की, बिना हॉर्मोन वाली गोली)। दोनों मुफ़्त हैं। दवा की दुकानों पर गर्भ निरोधक टेबलेट अलग-अलग ब्रांड नाम और कीमत पर मिलती हैं। कोई भी गोली शुरू करने से पहले स्वास्थ्यकर्मी से सलाह लें।",
+     "en": "The contraceptive pills available at government centres are Mala-N (a daily hormonal pill) and Chhaya (a weekly, hormone-free pill). Both are free. Chemists sell contraceptive tablets under different brand names and prices. Ask a health worker before starting any pill."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "क्या माला-एन से बच्चेदानी ख़राब होती है? → नहीं।",
+      "क्या थायराइड की मरीज़ ले सकती है? → हाँ।",
+      "काली गोलियाँ किसलिए हैं? → ये आयरन की हैं; इन्हें भी रोज़ लें ताकि आदत बनी रहे।"
+     ],
+     "en": [
+      "Does Mala-N damage the uterus? → No.",
+      "Can a woman with thyroid disease take it? → Yes.",
+      "What are the black pills for? → They are iron pills; take them daily too, so the habit continues."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "साधनों की तुलना करें → | छाया → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Compare methods → | Chhaya → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "4.4",
+   "hi": "IUCD/कॉपर-टी",
+   "en": "IUCD/Copper T",
+   "url": "/garbhnirodh-ke-saadhan/copper-t",
+   "en_url": "/en/garbhnirodh-ke-saadhan/copper-t",
+   "seo": {
+    "kw": [
+     [
+      "copper t price",
+      "copper t price"
+     ],
+     [
+      "copper t uses",
+      "copper t types and uses"
+     ],
+     [
+      "copper t types",
+      "copper t types"
+     ],
+     [
+      "copper t lagwane ke fayde",
+      "कॉपर टी लगवाने के फ़ायदे"
+     ],
+     [
+      "benefits of copper t",
+      "benefits of a copper t"
+     ]
+    ],
+    "ti": [
+     "IUCD/कॉपर-टी: उपयोग, प्रकार, फ़ायदे और कीमत | विकल्प",
+     "IUCD/Copper T: uses, types, benefits and price | Vikalp"
+    ],
+    "md": [
+     "कॉपर-टी 380A (10 साल) और 375 (5 साल): उपयोग, लगवाने के फ़ायदे, कब लगवाएँ और कीमत। सरकारी अस्पताल में मुफ़्त।",
+     "Copper T 380A (10 years) and 375 (5 years): uses, benefits, when to get one, and price. Free at government hospitals."
+    ],
+    "sc": "MedicalWebPage (MedicalDevice), FAQPage",
+    "en_kw": "copper t price · copper t uses · copper t types · benefits of copper t"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "IUCD/कॉपर-टी क्या है, यह कितने साल चलती है और इसकी कीमत क्या है?",
+     "en": "What is an IUCD/Copper T, how long does it last, and what does it cost?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "IUCD/कॉपर-टी एक छोटा सा उपकरण है जो प्रशिक्षित सेवा प्रदाता गर्भाशय में लगाते हैं। यह दो प्रकार की होती है: 380A दस साल तक और 375 पाँच साल तक। सरकारी स्वास्थ्य केंद्रों पर यह मुफ़्त लगती है।",
+     "en": "An IUCD/Copper T is a small device a trained healthcare provider places in the uterus. There are two types: 380A lasts 10 years and 375 lasts 5 years. It is inserted free at government health centres."
+    },
+    {
+     "label": "H2",
+     "hi": "IUCD/कॉपर-टी के प्रकार और उपयोग क्या हैं?",
+     "en": "What are the IUCD/Copper T types and uses?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "कॉपर-टी 380A: 10 साल तक सुरक्षा।",
+      "कॉपर-टी 375: 5 साल तक सुरक्षा।",
+      "उपयोग: पहले बच्चे के जन्म में देरी, दो बच्चों के जन्म में अंतर, या आगे और बच्चे नहीं करने हों तो; असुरक्षित संबंध के 5 दिन के अंदर आपातकालीन गर्भनिरोधक के रूप में भी।"
+     ],
+     "en": [
+      "Copper T 380A: protection for 10 years.",
+      "Copper T 375: protection for 5 years.",
+      "Uses: delaying the first birth, spacing between children and limiting family size; it can also be used as emergency contraception within 5 days of unprotected intercourse."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "IUCD/कॉपर-टी कब लगवा सकते हैं?",
+     "en": "When can you get an IUCD/Copper T?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "माहवारी शुरू होने के 12 दिन के अंदर।",
+      "डिलीवरी के 48 घंटे के अंदर या 6 हफ़्ते बाद।",
+      "गर्भपात के बाद, सेवा प्रदाता की जाँच से तुरंत भी।"
+     ],
+     "en": [
+      "Within 12 days of the start of a period.",
+      "Within 48 hours of delivery, or after 6 weeks.",
+      "After an abortion, even immediately, after a healthcare provider's check."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "IUCD/कॉपर-टी लगवाने के फ़ायदे क्या हैं?",
+     "en": "What are the benefits of an IUCD/Copper T?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "लगाने के दिन से ही असर शुरू।",
+      "एक बार लगवाएँ, 5 या 10 साल की छुट्टी।",
+      "जब चाहें निकलवा सकती हैं, और निकलवाते ही माँ बन सकती हैं।",
+      "हॉर्मोन-रहित; दूध पिलाते समय भी सुरक्षित।",
+      "असुरक्षित संबंध के 5 दिन के अंदर लगवाने पर आपातकालीन गर्भनिरोधक का काम भी करती है।"
+     ],
+     "en": [
+      "Works from the day it is inserted.",
+      "Get it inserted once and forget it for 5 or 10 years.",
+      "Can be removed whenever you want, and fertility returns immediately.",
+      "Hormone-free; safe while breastfeeding.",
+      "Inserted within 5 days of unprotected intercourse, it also works as emergency contraception."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "IUCD/कॉपर-टी से कौन से बदलाव सामान्य हैं?",
+     "en": "What changes are normal with an IUCD/Copper T?"
+    },
+    {
+     "label": "Body",
+     "hi": "माहवारी के समय हल्का पेट दर्द या ज़्यादा खून आ सकता है, और दो माहवारी के बीच दाग लग सकते हैं। यह आम तौर पर 2-3 महीने में ठीक हो जाता है। माहवारी चक्र के समय में बदलाव नहीं होता। पहली जाँच 6 हफ़्ते के अंदर या अगली माहवारी के बाद (जो पहले हो) करवाएँ।",
+     "en": "There may be mild cramps or heavier bleeding during periods, and spotting between periods. This usually settles in 2 to 3 months. The timing of the cycle does not change. Have the first check-up within 6 weeks or after the next period, whichever comes first."
+    },
+    {
+     "label": "Problems link",
+     "hi": "तेज़ दर्द, बुख़ार या बदबूदार पानी हो तो पढ़ें: साइड इफ़ेक्ट हों तो →",
+     "en": "Severe pain, fever or foul-smelling discharge: read Side effects →"
+    },
+    {
+     "label": "H2",
+     "hi": "IUCD/कॉपर-टी की कीमत क्या है?",
+     "en": "What is the IUCD/Copper T price?"
+    },
+    {
+     "label": "Body",
+     "hi": "सरकारी अस्पताल और स्वास्थ्य केंद्रों पर IUCD/कॉपर-टी मुफ़्त लगती है। प्राइवेट अस्पताल में IUCD/कॉपर-टी और उसे लगवाने का शुल्क अलग-अलग होता है।",
+     "en": "An IUCD/Copper T is inserted free at government hospitals and health centres. Private hospitals charge varying amounts for the device and the insertion."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "क्या IUCD/कॉपर-टी शरीर में घूम जाती है? → नहीं, यह गर्भाशय में ही रहती है।",
+      "क्या इससे पति को चोट लगती है? → नहीं, संबंध के समय यह महसूस नहीं होती।",
+      "क्या इससे वज़न या सफ़ेद पानी बढ़ता है? → नहीं। सफ़ेद पानी हो तो उसकी जाँच करवाएँ।"
+     ],
+     "en": [
+      "Can an IUCD/Copper T move around the body? → No, it stays in the uterus.",
+      "Can it hurt the husband? → No, it cannot be felt during intercourse.",
+      "Does it cause weight gain or white discharge? → No. If you have discharge, get it checked."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "IUCD/कॉपर-टी लगवाने का सही समय (ब्लॉग) → | साधनों की तुलना करें → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Best time to get an IUCD/Copper T (blog) → | Compare methods → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "4.5",
+   "hi": "कंडोम",
+   "en": "Condom",
+   "url": "/garbhnirodh-ke-saadhan/condom",
+   "en_url": "/en/garbhnirodh-ke-saadhan/condom",
+   "seo": {
+    "kw": [
+     [
+      "government free condoms",
+      "free government condoms"
+     ]
+    ],
+    "ti": [
+     "सरकारी मुफ़्त कंडोम कहाँ मिलें, सही इस्तेमाल | विकल्प",
+     "Free government condoms and how to use them | Vikalp"
+    ],
+    "md": [
+     "सरकारी मुफ़्त कंडोम आशा और स्वास्थ्य केंद्रों पर मिलते हैं। कंडोम का सही इस्तेमाल और फट जाए तो क्या करें।",
+     "Free government condoms are available from ASHA workers and health centres. How to use a condom correctly, and what to do if it breaks."
+    ],
+    "sc": "MedicalWebPage, FAQPage",
+    "en_kw": "government free condoms"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "सरकारी मुफ़्त कंडोम कहाँ मिलते हैं, और कंडोम कैसे इस्तेमाल करें?",
+     "en": "Where can you get free government condoms, and how do you use one?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "कंडोम (निरोध) पतले रबर का खोल है जिसे पुरुष संबंध के समय उत्तेजित लिंग पर पहनते हैं। यह अकेला साधन है जो अनचाहे गर्भ और एचआईवी समेत यौन संक्रमण, दोनों से बचाता है। आशा कार्यकर्ता और सरकारी स्वास्थ्य केंद्रों पर यह मुफ़्त मिलता है।",
+     "en": "A condom is a thin rubber sheath a man wears on his erect penis during intercourse. It is the only method that protects against both unwanted pregnancy and sexual infections, including HIV. It is free from ASHA workers and government health centres."
+    },
+    {
+     "label": "H2",
+     "hi": "कंडोम का सही इस्तेमाल कैसे करें?",
+     "en": "How do you use a condom correctly?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "हर बार नया कंडोम इस्तेमाल करें; एक कंडोम दोबारा कभी नहीं।",
+      "संबंध शुरू होने से पहले उत्तेजित लिंग पर पहनें।",
+      "पैकेट की तारीख़ देखें और फटा हुआ कंडोम इस्तेमाल न करें।",
+      "इस्तेमाल के बाद टिश्यू में लपेटकर कूड़ेदान में फेंकें।"
+     ],
+     "en": [
+      "Use a new condom every time; never reuse one.",
+      "Put it on the erect penis before intercourse begins.",
+      "Check the expiry date and do not use a torn condom.",
+      "After use, wrap it in tissue and put it in the bin."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "कंडोम कितने तरह के होते हैं?",
+     "en": "What kinds of condoms are there?"
+    },
+    {
+     "label": "Body",
+     "hi": "कंडोम अलग-अलग ब्रांड, आकार और बनावट में आते हैं, और सही इस्तेमाल पर सभी गर्भ रोकते हैं। सरकारी मुफ़्त कंडोम भी उतने ही असरदार हैं। प्रकारों की पूरी जानकारी के लिए हमारा लेख पढ़ें।",
+     "en": "Condoms come in different brands, sizes and textures, and all prevent pregnancy when used correctly. Free government condoms work just as well. Read our article for a full guide to the types."
+    },
+    {
+     "label": "H2",
+     "hi": "कंडोम फट जाए तो क्या करें?",
+     "en": "What if a condom breaks?"
+    },
+    {
+     "label": "Body",
+     "hi": "72 घंटे के अंदर आपातकालीन गोली लें, या सेवा प्रदाता से सलाह लें।",
+     "en": "Take the emergency pill within 72 hours, or ask a healthcare provider."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "क्या कंडोम से संक्रमण होता है? → नहीं, यह संक्रमण से बचाता है।",
+      "मुफ़्त कंडोम कहाँ मिलेंगे? → अपनी आशा कार्यकर्ता या नज़दीकी सरकारी स्वास्थ्य केंद्र से।",
+      "क्या कंडोम असफल हो सकता है? → ग़लत इस्तेमाल से फट सकता है; ऊपर दिया तरीका अपनाएँ।"
+     ],
+     "en": [
+      "Do condoms cause infections? → No, they protect against infections.",
+      "Where can I get free condoms? → From your ASHA worker or nearest government health centre.",
+      "Can a condom fail? → It can break if used incorrectly; follow the steps above."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "इमरजेंसी गोली → | पति बाहर रहते हों तो → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Emergency pill → | When your husband lives away → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "4.6",
+   "hi": "इमरजेंसी गोली",
+   "en": "Emergency pill",
+   "url": "/garbhnirodh-ke-saadhan/aapatkalin-goli",
+   "en_url": "/en/garbhnirodh-ke-saadhan/aapatkalin-goli",
+   "seo": {
+    "kw": [
+     [
+      "emergency contraceptive pill",
+      "emergency contraceptive pill"
+     ],
+     [
+      "emergency pregnancy pill",
+      "emergency pregnancy pill"
+     ],
+     [
+      "72 hours tablet",
+      "72 hours tablet"
+     ],
+     [
+      "emergency contraception pills",
+      "emergency contraceptive pill"
+     ],
+     [
+      "आपातकालीन गर्भनिरोधक गोली",
+      "आपातकालीन गर्भनिरोधक गोली"
+     ],
+     [
+      "इमरजेंसी गर्भ निरोधक गोली",
+      "इमरजेंसी गर्भ निरोधक गोली"
+     ]
+    ],
+    "ti": [
+     "आपातकालीन गर्भनिरोधक गोली (72 घंटे): कब लें | विकल्प",
+     "Emergency contraceptive pill (72 hours tablet) | Vikalp"
+    ],
+    "md": [
+     "आपातकालीन गर्भनिरोधक गोली असुरक्षित संबंध के 72 घंटे के अंदर लें। कब लें, कब नहीं, और 72 घंटे बीत जाएँ तो क्या करें।",
+     "Take the emergency contraceptive pill within 72 hours of unprotected intercourse. When to take it, when not to, and what to do after 72 hours."
+    ],
+    "sc": "MedicalWebPage (Drug), FAQPage",
+    "en_kw": "emergency contraceptive pill · emergency pregnancy pill · 72 hours tablet · emergency contraception pills"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "आपातकालीन गर्भनिरोधक गोली (72 घंटे वाली गोली) कब लें, और कब नहीं?",
+     "en": "When should you take the emergency contraceptive pill (72 hours tablet), and when not?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "असुरक्षित संबंध हुआ हो, कंडोम फट गया हो या गोली छूट गई हो, तो 72 घंटे के अंदर आपातकालीन गर्भनिरोधक गोली (ईज़ी गोली) लें। इसे इमरजेंसी गर्भ निरोधक गोली भी कहते हैं। जितनी जल्दी लें, उतना अच्छा। यह नियमित साधन नहीं है। आशा द्वारा और सरकारी केंद्रों पर यह मुफ़्त मिलती है।",
+     "en": "If you had unprotected intercourse, a condom broke or you missed pills, take the emergency contraceptive pill (Easy pill) within 72 hours. It is also called the emergency pregnancy pill or 72 hours tablet. The sooner the better. It is not a regular method. It is available for free from ASHA workers and government health facilities."
+    },
+    {
+     "label": "H2",
+     "hi": "इमरजेंसी गोली कब लें?",
+     "en": "When should you take the emergency pill?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "असुरक्षित संबंध के बाद जितनी जल्दी हो सके, 72 घंटे के अंदर।",
+      "कंडोम फटने या सही से न लगने पर।",
+      "नियमित गोली या अंतरा सुई समय पर न लेने पर।"
+     ],
+     "en": [
+      "As soon as possible after unprotected intercourse, within 72 hours.",
+      "When a condom breaks or slips.",
+      "When a regular pill or Antara injection was missed."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "इमरजेंसी गोली कब न लें?",
+     "en": "When should you not use it?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "हर संबंध के बाद इसे नियमित साधन की तरह न लें।",
+      "बार-बार लेने पर माहवारी चक्र में बदलाव हो सकता है और इसकी विफलता दर भी बढ़ती जाती है।",
+      "यह गर्भपात नहीं करती; ठहरे हुए गर्भ पर इसका असर नहीं होता।"
+     ],
+     "en": [
+      "Don't use it as a regular method after every time you have intercourse.",
+      "Taking it repeatedly can change your cycle, and its failure rate keeps rising.",
+      "It does not cause an abortion and has no effect on an existing pregnancy."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "72 घंटे बीत गए तो क्या करें?",
+     "en": "What if 72 hours have passed?"
+    },
+    {
+     "label": "Body",
+     "hi": "तुरंत सेवा प्रदाता से मिलें या सखी हेल्पलाइन पर बात करें। असुरक्षित संबंध के 5 दिन के अंदर IUCD/कॉपर-टी लगवाने से भी गर्भ रुक सकता है। पूरी जानकारी: \"72 घंटे बीत गए तो क्या करें?\" (ब्लॉग)।",
+     "en": "See a healthcare provider or call the Sakhi Helpline straight away. An IUCD/Copper T inserted within 5 days of unprotected intercourse can also prevent pregnancy. Full guide: \"What to do if 72 hours have passed\" (blog)."
+    },
+    {
+     "label": "H2",
+     "hi": "इमरजेंसी गोली के बाद कौन से बदलाव सामान्य हैं?",
+     "en": "What changes are normal after the emergency pill?"
+    },
+    {
+     "label": "Body",
+     "hi": "आमतौर पर कोई परेशानी नहीं होती, पर किसी को मितली, पेट दर्द, हल्का रक्तस्राव या अगली माहवारी में बदलाव हो सकता है। माहवारी 7 दिन से ज़्यादा देर से आए तो गर्भ की जाँच करवाएँ।",
+     "en": "Usually there are no problems, but some women have nausea, stomach pain, light bleeding or a change in the next period. If your period is more than 7 days late, take a pregnancy test."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "क्या आपातकालीन गोली और माला-एन एक जैसी हैं? → नहीं, यह सिर्फ़ आपात स्थिति के लिए है।",
+      "क्या इससे बाद में माँ बनने में दिक्कत होती है? → नहीं।",
+      "यह कहाँ मिलेगी? → आशा, सरकारी केंद्र (मुफ़्त), या दवा की दुकान।"
+     ],
+     "en": [
+      "Is the emergency pill the same as Mala-N? → No, it is only for emergencies.",
+      "Does it affect fertility later? → No.",
+      "Where can I get it? → ASHA worker, government centre (free) or chemist."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "IUCD/कॉपर-टी → | साधनों की तुलना करें → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "IUCD/Copper T → | Compare methods → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "4.7",
+   "hi": "सेफ़ डेज़ और विड्रॉल",
+   "en": "Safe days and withdrawal",
+   "url": "/garbhnirodh-ke-saadhan/paramparik-tarike",
+   "en_url": "/en/garbhnirodh-ke-saadhan/paramparik-tarike",
+   "seo": {
+    "kw": [
+     [
+      "safe days to have sex",
+      "safe days"
+     ],
+     [
+      "safe period for sex to avoid pregnancy",
+      "safe period"
+     ],
+     [
+      "menstrual cycle safe days",
+      "माहवारी चक्र के सेफ़ डेज़"
+     ],
+     [
+      "withdrawal pull out method",
+      "withdrawal (pull out) method"
+     ],
+     [
+      "pull out method",
+      "pull out method"
+     ],
+     [
+      "pregnancy ke safe days",
+      "प्रेगनेंसी के सेफ़ डेज़"
+     ]
+    ],
+    "ti": [
+     "सेफ़ डेज़ और विड्रॉल: क्या प्रेगनेंसी रुकती है? | विकल्प",
+     "Safe days and the pull out method: reliable? | Vikalp"
+    ],
+    "md": [
+     "सेक्स के लिए सेफ़ डेज़ और विड्रॉल (पुल आउट) मेथड कितने भरोसेमंद हैं? पारंपरिक तरीकों का सच और असरदार साधनों का चार्ट।",
+     "How reliable are safe days and the withdrawal (pull out) method? The facts on traditional methods, with an effectiveness chart."
+    ],
+    "sc": "MedicalWebPage, FAQPage",
+    "en_kw": "safe days to have sex · safe period for sex to avoid pregnancy · menstrual cycle safe days · withdrawal pull out method · pull out method"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "क्या सेफ़ डेज़ (सुरक्षित दिन) और विड्रॉल से प्रेगनेंसी रुकती है?",
+     "en": "Do safe days and the withdrawal (pull out) method prevent pregnancy?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "पूरी तरह नहीं। सुरक्षित दिनों की पहचान और विड्रॉल (निकासी) विधि गर्भनिरोधन के प्राकृतिक तरीके हैं, पर ज़रा सी भी चूक होने पर इनमें गर्भ ठहरने का जोखिम रहता है। आधुनिक साधन जैसे अंतरा, छाया, माला-एन, IUCD/कॉपर-टी और कंडोम गर्भधारण टालने में ज़्यादा असरदार हैं।",
+     "en": "Not fully. Counting safe days and the withdrawal method are natural ways to avoid pregnancy, but the slightest slip can lead to pregnancy. Modern methods such as Antara, Chhaya, Mala-N, IUCD/Copper T and condoms are far more reliable and effective."
+    },
+    {
+     "label": "Body",
+     "hi": "पारंपरिक तरीकों में सही समय, संयम और नियमितता बहुत मायने रखते हैं। आधुनिक गर्भनिरोधक साधन इन सभी चिंताओं से मुक्त रखते हैं और इनकी विफलता की संभावना बहुत ही कम होती है, इसलिए आप चिंतामुक्त रह सकते हैं।",
+     "en": "Traditional methods depend heavily on timing, self-control and consistency. Modern methods free you from all of this, and their chance of failure is very low, so you can stay worry-free."
+    },
+    {
+     "label": "H2",
+     "hi": "सेक्स के लिए सेफ़ डेज़ (सुरक्षित दिन) कौन से हैं?",
+     "en": "What are the \"safe days\" to have intercourse?"
+    },
+    {
+     "label": "Body",
+     "hi": "दिन गिनना या कैलेंडर देखकर संबंध बनाना गर्भनिरोधन का पारंपरिक तरीका है। लेकिन माहवारी चक्र हर महीने एक जैसा चले, यह ज़रूरी नहीं, क्योंकि वह कभी-कभी कुछ दिन आगे-पीछे हो सकता है, जिसका अंदाज़ा कोई भी पहले से नहीं लगा सकता। इसलिए प्रेगनेंसी से बचने के लिए कोई भी दिन पूरी तरह सेफ़ नहीं है।",
+     "en": "Counting days or following a calendar is a traditional way to avoid pregnancy. But the menstrual cycle is not the same every month. It can shift by a few days, and no one can predict this in advance. So there is no completely safe day to avoid pregnancy."
+    },
+    {
+     "label": "H2",
+     "hi": "माहवारी चक्र के सेफ़ डेज़ गिनना कितना भरोसेमंद है?",
+     "en": "How reliable is counting menstrual cycle safe days?"
+    },
+    {
+     "label": "Body",
+     "hi": "अंदाज़े में ज़रा सी भी चूक से अनचाहा गर्भ ठहरने का डर रहता है, जबकि आधुनिक साधन जैसे अंतरा, छाया, माला-एन, IUCD/कॉपर-टी, कंडोम और नसबंदी पूरी सुरक्षा और मन की शांति देते हैं। सेफ़ डेज़ तरीका इस्तेमाल करने वाले हर 100 दंपतियों में से 10 से 20 महिलाओं में साल भर में गर्भ ठहर सकता है।",
+     "en": "The slightest error in the estimate can lead to an unwanted pregnancy, while modern methods such as Antara, Chhaya, Mala-N, IUCD/Copper T, condoms and sterilisation give full protection and peace of mind. Among 100 couples relying on the safe period, 10 to 20 have a pregnancy within a year."
+    },
+    {
+     "label": "H2",
+     "hi": "विड्रॉल या पुल आउट मेथड क्या है?",
+     "en": "What is the withdrawal (pull out) method?"
+    },
+    {
+     "label": "Body",
+     "hi": "निकासी (विड्रॉल) विधि को पुल-आउट विधि भी कहते हैं, और इसमें त्रुटि की काफ़ी गुंजाइश होती है। वीर्यपात के सही समय का अनुमान लगाना हमेशा जोखिम भरा होता है, इसलिए यह दंपति के लिए तनावपूर्ण हो सकता है। इसकी विफलता की दर काफ़ी अधिक है (100 में से 20 से ज़्यादा), इसलिए आधुनिक गर्भनिरोधक साधनों का इस्तेमाल करना चाहिए, जिससे संबंध बनाते समय कोई तनाव न रहे और पूरी सुरक्षा मिले।",
+     "en": "Withdrawal is also called the pull out method, and it leaves a lot of room for error. Judging the right moment of ejaculation is always risky, which can make it stressful for the couple. Its failure rate is high (more than 20 in 100), so it is better to use a modern method, so there is no stress during intercourse and protection is complete."
+    },
+    {
+     "label": "H2",
+     "hi": "कौन सा साधन कितना असरदार है?",
+     "en": "How effective is each method?"
+    },
+    {
+     "label": "Effectiveness chart",
+     "hi": [
+      "सबसे ज़्यादा असरदार (1 साल में 100 में से 1 से कम महिला गर्भवती): पुरुष नसबंदी, महिला नसबंदी, IUCD/कॉपर-टी",
+      "बहुत असरदार (100 में से 10 से कम): अंतरा इंजेक्शन (हर 3 महीने), माला-एन (रोज़ की गोली), छाया (हफ़्ते की गोली)",
+      "कम असरदार (100 में से 10 से 20): पुरुष कंडोम, सुरक्षित दिनों की पहचान (प्रजनन जागरूकता विधियाँ)",
+      "सबसे कम असरदार (100 में से 20 से ज़्यादा): विड्रॉल (बाह्य स्खलन विधि), शुक्राणुनाशक, महिला कंडोम",
+      "चार्ट IDF के \"गर्भनिरोधक साधनों की प्रभावशीलता उनके साधारण इस्तेमाल पर\" से (स्रोत: Family Planning: A Global Handbook for Providers)।"
+     ],
+     "en": [
+      "Most effective (fewer than 1 in 100 women pregnant in a year): male sterilisation, female sterilisation, IUCD/Copper T",
+      "Very effective (fewer than 10 in 100): Antara injection (every 3 months), Mala-N (daily pill), Chhaya (weekly pill)",
+      "Less effective (10 to 20 in 100): male condom, safe-day counting (fertility awareness methods)",
+      "Least effective (more than 20 in 100): withdrawal, spermicides, female condom",
+      "Chart from IDF's \"Effectiveness of contraceptive methods with typical use\" (source: Family Planning: A Global Handbook for Providers)."
+     ]
+    },
+    {
+     "label": "Myth card",
+     "hi": "सुनी-सुनाई: पीरियड के तुरंत बाद के दिन हमेशा सेफ़ होते हैं। सच: नहीं, माहवारी चक्र आगे-पीछे होता रहता है; किसी भी दिन गर्भ ठहर सकता है।",
+     "en": "Myth: The days right after a period are always safe. Fact: No. The cycles can be irregular, so pregnancy can happen on any day."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "क्या प्रेगनेंसी के सेफ़ डेज़ पक्के होते हैं? → नहीं, माहवारी चक्र हर महीने बदल सकता है।",
+      "क्या पुल आउट मेथड से प्रेगनेंसी रुक जाती है? → हर बार नहीं; इसकी विफलता दर काफ़ी ज़्यादा है।",
+      "गलती हो जाए तो क्या करें? → 72 घंटे के अंदर आपातकालीन गर्भनिरोधक गोली लें।"
+     ],
+     "en": [
+      "Are the safe days for avoiding pregnancy reliable? → No, the cycle can change every month.",
+      "Does the pull out method prevent pregnancy? → Not reliably; its failure rate is high.",
+      "What if something goes wrong? → Take the emergency contraceptive pill within 72 hours."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "पीरियड के बाद सेफ़ डेज़ (ब्लॉग) → | साधनों की तुलना करें → | इमरजेंसी गोली → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Safe days after periods (blog) → | Compare methods → | Emergency pill → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "4.8",
+   "hi": "साइड इफ़ेक्ट हों तो",
+   "en": "Side effects",
+   "url": "/garbhnirodh-ke-saadhan/pareshani-ho-to",
+   "en_url": "/en/garbhnirodh-ke-saadhan/pareshani-ho-to",
+   "seo": {
+    "kw": [
+     [
+      "copper t iud side effects",
+      "copper t (iud) side effects"
+     ],
+     [
+      "side effects of non hormonal iud",
+      "non-hormonal iud"
+     ],
+     [
+      "mala n side effects",
+      "mala-n side effects"
+     ],
+     [
+      "chhaya side effects",
+      "chhaya side effects"
+     ],
+     [
+      "garbh nirodhak tablet ke nuksan",
+      "गर्भनिरोधक गोली से नुकसान"
+     ],
+     [
+      "antara injection side effects",
+      "antara injection side effects"
+     ]
+    ],
+    "ti": [
+     "गर्भनिरोधक साधनों के साइड इफ़ेक्ट: कब डॉक्टर दिखाएँ",
+     "Side effects: IUCD/Copper T, Antara, Mala-N, Chhaya | Vikalp"
+    ],
+    "md": [
+     "IUCD/कॉपर-टी, अंतरा, माला-एन और छाया के साइड इफ़ेक्ट: क्या सामान्य है और कब स्वास्थ्यकर्मी से मिलें। साधन अपने आप बंद न करें।",
+     "Side effects of the IUCD/Copper T, Antara, Mala-N and Chhaya: what is normal and when to see a health worker. Do not stop a method on your own."
+    ],
+    "sc": "MedicalWebPage, FAQPage",
+    "en_kw": "copper t iud side effects · side effects of non hormonal iud · mala n side effects · chhaya side effects"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "गर्भनिरोधक साधनों के साइड इफ़ेक्ट क्या हैं, और कब स्वास्थ्यकर्मी से मिलें?",
+     "en": "What are the side effects of contraception, and when should you see a health worker?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "यदि आपको साधन इस्तेमाल करने से परेशानी हो, तो उसे अपने आप बंद न करें; स्वास्थ्यकर्मी से बात करें, क्योंकि अचानक साधन बंद करने पर अनचाहा गर्भ ठहरने का डर होता है। परिवार नियोजन के कई साधन उपलब्ध हैं, और आपकी ज़रूरत के अनुसार दूसरा साधन चुना जा सकता है।",
+     "en": "If a method is causing you problems, do not stop it on your own. Talk to a health worker, because stopping suddenly puts you at risk of an unwanted pregnancy. There are many family planning methods, and another one can be chosen to suit you."
+    },
+    {
+     "label": "H2",
+     "hi": "IUCD/कॉपर-टी के साइड इफ़ेक्ट क्या हैं?",
+     "en": "What are the side effects of IUCD/Copper T (IUCD)?"
+    },
+    {
+     "label": "Two columns",
+     "hi": [
+      "सामान्यतः चिंता की बात नहीं: माहवारी पहले से अधिक या लंबे समय तक आ सकती है; माहवारी चक्र के बीच हल्का या अनियमित रक्तस्राव; माहवारी के समय पेडू में ऐंठन या दर्द बढ़ सकता है। ये बदलाव अक्सर शुरुआती 2 से 3 महीनों में होते हैं और अपने आप ठीक हो जाते हैं। माहवारी चक्र के समय में बदलाव नहीं होता।",
+      "स्वास्थ्यकर्मी से मिलें अगर: तेज़ पेट दर्द हो; बुख़ार हो; बदबूदार योनि स्राव हो; माहवारी में बहुत अधिक रक्तस्राव हो; IUCD निकलने का संदेह हो।"
+     ],
+     "en": [
+      "Usually nothing to worry about: periods may be heavier or longer; light or irregular bleeding between periods; more cramping or pain during periods. These changes usually happen in the first 2 to 3 months and settle on their own. The timing of the cycle does not change.",
+      "See a health worker if: severe abdominal pain; fever; foul-smelling vaginal discharge; very heavy menstrual bleeding; you suspect the IUCD has come out."
+     ]
+    },
+    {
+     "label": "Body",
+     "hi": "कॉपर-टी (380A और 375) हॉर्मोन-रहित IUCD है, इसलिए इसके साइड इफ़ेक्ट ज़्यादातर माहवारी तक सीमित रहते हैं।",
+     "en": "The Copper T (380A and 375) is a non-hormonal IUCD, so its side effects are mostly limited to periods."
+    },
+    {
+     "label": "H2",
+     "hi": "अंतरा इंजेक्शन के साइड इफ़ेक्ट क्या हैं?",
+     "en": "What are the side effects of Antara injection?"
+    },
+    {
+     "label": "Two columns",
+     "hi": [
+      "सामान्यतः चिंता की बात नहीं: अंतरा हॉर्मोन युक्त साधन है, इसलिए शुरू के कुछ महीनों में माहवारी में बदलाव स्वाभाविक है: बीच में हल्का या अनियमित रक्तस्राव; ज़्यादा या ज़्यादा दिनों तक खून जाना; कुछ महीने बाद माहवारी कम होना, कम दिनों तक आना या बंद होना। जी मिचलाना, उल्टी, सिरदर्द, स्तनों में दर्द या वज़न में बदलाव भी हो सकता है। माहवारी बंद होना अपने-आप में गर्भ का प्रमाण नहीं है, और न ही शरीर में कोई गंदा खून जमा होता है।",
+      "स्वास्थ्यकर्मी से मिलें अगर: बहुत अधिक या लगातार रक्तस्राव हो; तेज़ पेट दर्द हो; गर्भ की आशंका हो; कोई नया गंभीर लक्षण हो।"
+     ],
+     "en": [
+      "Usually nothing to worry about: Antara is a hormonal method, so changes in periods are expected in the first few months: light or irregular bleeding; heavier or longer bleeding; after some months, lighter, shorter or no periods. Nausea, vomiting, headache, breast pain or weight change can also occur. Periods stopping is not in itself a sign of pregnancy, and no \"dirty blood\" collects in the body.",
+      "See a health worker if: very heavy or continuous bleeding; severe abdominal pain; you suspect pregnancy; any new serious symptom."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "माला-एन के साइड इफ़ेक्ट क्या हैं?",
+     "en": "What are the side effects of Mala-N?"
+    },
+    {
+     "label": "Two columns",
+     "hi": [
+      "सामान्यतः चिंता की बात नहीं: माला-एन हॉर्मोन युक्त गोली है, इसलिए शुरू के कुछ महीनों में माहवारी में बदलाव स्वाभाविक है, जैसे बीच में हल्का या अनियमित रक्तस्राव। जी मिचलाना, उल्टी, सिरदर्द, स्तनों में दर्द या वज़न में बदलाव हो सकता है। ये अक्सर शुरुआती 2 से 3 महीनों में होते हैं और ठीक हो जाते हैं। जब तक ये दिनचर्या में बाधा नहीं डालते, ये सामान्य हैं।",
+      "स्वास्थ्यकर्मी से मिलें अगर: बहुत अधिक रक्तस्राव हो; माहवारी न आए; बहुत अधिक उल्टी हो।"
+     ],
+     "en": [
+      "Usually nothing to worry about: Mala-N is a hormonal pill, so changes in periods are expected in the first few months, such as light or irregular bleeding. Nausea, vomiting, headache, breast pain or weight change can occur. These usually happen in the first 2 to 3 months and settle. As long as they do not disrupt daily life, they are normal.",
+      "See a health worker if: very heavy bleeding; no period; a lot of vomiting."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "छाया के साइड इफ़ेक्ट क्या हैं?",
+     "en": "What are the side effects of Chhaya?"
+    },
+    {
+     "label": "Two columns",
+     "hi": [
+      "सामान्यतः चिंता की बात नहीं: छाया हॉर्मोन रहित गोली है, इसलिए इसके दुष्प्रभाव कम हैं। माहवारी चक्र कुछ दिन लंबा हो सकता है और खून जाना कम हो सकता है; ये दोनों बदलाव फ़ायदेमंद हैं, क्योंकि ये खून की कमी को पूरा करने में मदद करते हैं।",
+      "स्वास्थ्यकर्मी से मिलें अगर: माहवारी चक्र 15 दिन से अधिक बढ़ जाए; माहवारी न आए; गर्भ की आशंका हो।"
+     ],
+     "en": [
+      "Usually nothing to worry about: Chhaya is hormone-free, so it has few side effects. The cycle may get a few days longer and bleeding may be lighter; both changes are beneficial, as they help prevent anaemia.",
+      "See a health worker if: the cycle is more than 15 days longer; no period; you suspect pregnancy."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "कंडोम या इमरजेंसी गोली से परेशानी हो तो क्या करें?",
+     "en": "What if a condom or the emergency pill causes a problem?"
+    },
+    {
+     "label": "Two columns",
+     "hi": [
+      "कंडोम: आमतौर पर कोई दुष्प्रभाव नहीं होता। मिलें अगर: खुजली, जलन या एलर्जी हो; बार-बार कंडोम फटे या फिसले (सही उपयोग समझें)।",
+      "आपातकालीन गर्भनिरोधक गोली: आमतौर पर कोई परेशानी नहीं; किसी को मितली, पेट दर्द, हल्का रक्तस्राव या अगली माहवारी के समय में बदलाव हो सकता है, जो हल्का और कुछ समय के लिए होता है। मिलें अगर: गोली के बाद माहवारी 7 दिन से ज़्यादा देर से आए; गर्भ की आशंका हो; पेट में तेज़ दर्द हो।"
+     ],
+     "en": [
+      "Condom: usually no side effects. See a health worker if: itching, burning or allergy; condoms keep breaking or slipping (learn the correct use).",
+      "Emergency pill: usually no problems; some women have nausea, stomach pain, light bleeding or a change in the timing of the next period, which is mild and short-lived. See a health worker if: your period is more than 7 days late after the pill; you suspect pregnancy; severe stomach pain."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "क्या गर्भनिरोधक गोली से नुकसान होता है?",
+     "en": "Are contraceptive pills harmful?"
+    },
+    {
+     "label": "Body",
+     "hi": "नहीं। गर्भनिरोधक गोलियों के ज़्यादातर बदलाव हल्के होते हैं और 2 से 3 महीने में ठीक हो जाते हैं। ऊपर दिए लक्षण दिखें तो स्वास्थ्यकर्मी से मिलें; ज़रूरत हो तो दूसरा साधन चुना जा सकता है।",
+     "en": "No. Most changes with contraceptive pills are mild and settle in 2 to 3 months. If you notice the signs above, see a health worker; you can switch to another method if needed."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "अंतरा से माहवारी बंद हो गई, क्या गर्भ है? → माहवारी बंद होना अपने-आप में गर्भ का प्रमाण नहीं; शक हो तो जाँच करवाएँ।",
+      "क्या साइड इफ़ेक्ट हों तो साधन बंद कर दूँ? → नहीं, अपने आप बंद न करें; पहले स्वास्थ्यकर्मी से बात करें।",
+      "मुझे कहाँ दिखाना चाहिए? → आशा, एएनएम या नज़दीकी सरकारी स्वास्थ्य केंद्र।"
+     ],
+     "en": [
+      "Antara stopped my periods; am I pregnant? → Periods stopping is not in itself a sign of pregnancy; get tested if in doubt.",
+      "Should I stop my method if I have side effects? → No, do not stop on your own; talk to a health worker first.",
+      "Where should I go? → Your ASHA, ANM or nearest government health centre."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "IUCD/कॉपर-टी लगवाने के बाद के 3 महीने (ब्लॉग) → | साधनों की तुलना करें → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "The first 3 months after an IUCD/Copper T (blog) → | Compare methods → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "4.9",
+   "hi": "पति बाहर रहते हों तो",
+   "en": "When your husband lives away",
+   "url": "/garbhnirodh-ke-saadhan/sathi-door-rehte-hon-to",
+   "en_url": "/en/garbhnirodh-ke-saadhan/sathi-door-rehte-hon-to",
+   "seo": {
+    "kw": [],
+    "ti": [
+     "पति बाहर रहते हों तो क्या गर्भनिरोध अपनाने की ज़रूरत है? | विकल्प",
+     "Contraception when your husband lives away | Vikalp"
+    ],
+    "md": [
+     "पति बाहर रहते हों या कभी-कभी मिलते हों, तब भी एक बार में गर्भ ठहर सकता है। कंडोम, गोली या IUCD/कॉपर-टी कैसे इस्तेमाल करें।",
+     "A single occurrence of sexual intercourse can lead to pregnancy. How to use condoms, pills or an IUCD/Copper T when your husband lives away."
+    ],
+    "sc": "MedicalWebPage, FAQPage",
+    "en_kw": "none in the approved list (reached via site and ads)"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "पति बाहर रहते हों या कभी-कभी मिलते हों, तो गर्भनिरोधक साधन का इस्तेमाल कैसे करें?",
+     "en": "How to use contraception when your husband lives away or you meet only occasionally?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "अगर आपका साथी यात्रा पर या बाहर है, या आप उनसे कभी-कभार मिलते हैं, तब भी एक बार के संभोग से गर्भधारण का ख़तरा रहता है। इसलिए ऐसी स्थिति के लिए समय पर कोई गर्भनिरोधक साधन अपनाना ज़रूरी है: कंडोम, गोली या IUCD/कॉपर-टी।",
+     "en": "Even if your husband works away or travels, and you meet only now and then, even a single occurrence of sexual intercourse can lead to pregnancy. So use a method every time he visits: condoms, the pill or an IUCD/Copper T."
+    },
+    {
+     "label": "H2",
+     "hi": "कभी-कभी मिलने पर कौन सा साधन कैसे इस्तेमाल करें?",
+     "en": "How do you use each method if you meet only occasionally?"
+    },
+    {
+     "label": "Table",
+     "hi": [
+      "कंडोम (निरोध): हर संबंध में नए कंडोम का सही तरीके से इस्तेमाल करें।",
+      "माला-एन: गोलियाँ माहवारी चक्र के पहले पाँच दिनों में शुरू होती हैं। जिस चक्र में संबंध बनने की उम्मीद हो, उसी में शुरू कर दें। गोलियाँ नियमित लेने पर ही बचाव करती हैं। गोली भूल जाएँ तो साथ में कंडोम इस्तेमाल करें। संदेह हो तो स्वास्थ्यकर्मी से मिलें।",
+      "छाया: गोलियाँ माहवारी चक्र के पहले दिन शुरू होती हैं। जिस चक्र में संबंध बनने की उम्मीद हो, उसी में शुरू कर दें। नियमित लेने पर ही बचाव होता है। गोली भूल जाएँ तो साथ में कंडोम इस्तेमाल करें। संदेह हो तो स्वास्थ्यकर्मी से मिलें।",
+      "अंतरा इंजेक्शन: जो दंपति काम के सिलसिले में अलग रहते हैं और कभी-कभी साथ रहते हैं, उनके लिए अंतरा उपयुक्त साधन नहीं है। वे गोली, कंडोम या IUCD इस्तेमाल कर सकते हैं।",
+      "IUCD/कॉपर-टी: एक बार लगवाने पर 5 से 10 वर्ष तक सुरक्षा मिलती है। महिला चाहे तो इसे लगवा सकती है, और आकस्मिक संबंध के डर से भी छुटकारा मिल जाता है।",
+      "आपातकालीन गर्भनिरोधक गोली: सिर्फ़ आपात स्थिति में, असुरक्षित संबंध के 72 घंटों के अंदर। बार-बार लेने पर माहवारी चक्र में बदलाव हो सकता है और इसकी विफलता दर भी बढ़ती जाती है।"
+     ],
+     "en": [
+      "Condom: use a new condom correctly every time you have intercourse.",
+      "Mala-N: the pills are started in the first five days of a period. Start in the cycle in which you expect to meet. The pills protect only if taken regularly. If you miss a pill, use a condom as well. If in doubt, see a health worker.",
+      "Chhaya: the pills are started on the first day of a period. Start in the cycle in which you expect to meet. They protect only if taken regularly. If you miss a pill, use a condom as well. If in doubt, see a health worker.",
+      "Antara injection: for couples who live apart for work and are together only sometimes, Antara is not a suitable method. They can use pills, condoms or an IUCD.",
+      "IUCD/Copper T: one insertion protects for 5 to 10 years. A woman can choose it and be free of the worry of unplanned intercourse.",
+      "Emergency pill: only in an emergency, within 72 hours of unprotected intercourse. Taking it repeatedly can change your cycle, and its failure rate keeps rising."
+     ]
+    },
+    {
+     "label": "Myth card",
+     "hi": "सुनी-सुनाई: महीने में 1-2 बार ही संबंध हों तो साधन ज़रूरी नहीं। सच: एक बार के संबंध से भी गर्भ ठहर सकता है।",
+     "en": "Myth: If you only have intercourse once or twice a month, you do not need a method. Fact: You can get pregnant from even a single occurrence of sexual intercourse."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "पति के आने से एक दिन पहले गोली शुरू कर लूँ? → नहीं; गोली माहवारी चक्र की शुरुआत में शुरू होती है और नियमित लेनी होती है। तब तक कंडोम इस्तेमाल करें।",
+      "क्या अंतरा सही रहेगा? → कभी-कभी संभोग करने वाले दंपतियों के लिए नहीं; गोली, कंडोम या IUCD/कॉपर-टी बेहतर हैं।",
+      "क्या आपातकालीन गोली हर बार ले सकते हैं? → नहीं; बार-बार लेने से इसकी विफलता दर बढ़ती है और माहवारी चक्र भी अनियमित हो सकता है।"
+     ],
+     "en": [
+      "Can I start the pill a day before he arrives? → No; pills have to be started at the beginning of a cycle and must be taken regularly. Use condoms until then.",
+      "Is Antara a good choice? → Not for couples who meet occasionally; pills, condoms or an IUCD/Copper T are better.",
+      "Can I take the emergency pill every time? → No; taking it repeatedly makes it less effective, and your menstrual cycle may become irregular."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "कंडोम → | IUCD/कॉपर-टी → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Condoms → | IUCD/Copper T → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "5",
+   "hi": "साधनों की तुलना",
+   "en": "Compare methods",
+   "url": "/saadhan-tulna",
+   "en_url": "/en/saadhan-tulna",
+   "seo": {
+    "kw": [
+     [
+      "best contraception for newly married couple",
+      "best contraception for newly married couples"
+     ],
+     [
+      "best contraceptive pills for newly married",
+      "best contraceptive pill"
+     ],
+     [
+      "बेस्ट गर्भ निरोधक गोली",
+      "बेस्ट गर्भ निरोधक गोली"
+     ]
+    ],
+    "ti": [
+     "नए दंपति के लिए बेस्ट गर्भनिरोधक: तुलना करें | विकल्प",
+     "Best contraception for newly married couples | Vikalp"
+    ],
+    "md": [
+     "कौन सा गर्भनिरोधक आपके लिए बेस्ट है? कोई भी 2 साधन चुनें और तुलना करें: असर, कितने समय तक, हॉर्मोन, और कहाँ मिलेगा।",
+     "Which contraception is best for you? Pick any 2 methods and compare effectiveness, duration, hormones and where to get them."
+    ],
+    "sc": "WebApplication",
+    "en_kw": "best contraception for newly married couple · best contraceptive pills for newly married"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "नए दंपति के लिए बेस्ट गर्भनिरोधक कौन सा है?",
+     "en": "What is the best contraception for newly married couples?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "बेस्ट गर्भ निरोधक गोली या साधन वही है जो आपकी ज़रूरत के हिसाब से हो: आप कितने समय तक बच्चा नहीं चाहतीं, रोज़ याद रख सकती हैं या नहीं, और दूध पिला रही हैं या नहीं। कोई भी 2 साधन चुनें और तुलना करें।",
+     "en": "The best contraceptive pill or method is the one that fits your needs: how long you want to wait, whether you can remember something daily, and whether you are breastfeeding. For newly married couples, pick any 2 methods and compare them."
+    },
+    {
+     "label": "Tool intro",
+     "hi": "किस तरह का साधन ढूंढ रहे हैं? → साधन चुनें → तुलना देखें → PDF डाउनलोड करें",
+     "en": "What kind of method are you looking for? → Pick methods → See the comparison → Download PDF"
+    },
+    {
+     "label": "Below the tool",
+     "hi": "अब भी तय नहीं कर पा रहीं? सखी से बात करें: सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Still not sure? Talk to Sakhi: Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "6",
+   "hi": "सच या सुनी-सुनाई?",
+   "en": "Myth or fact quiz",
+   "url": "/sach-ya-suni-sunayi",
+   "en_url": "/en/sach-ya-suni-sunayi",
+   "seo": {
+    "kw": [],
+    "ti": [
+     "सच या सुनी-सुनाई? गर्भनिरोध पर क्विज़ खेलें | विकल्प",
+     "Myth or fact? A 2-minute contraception quiz | Vikalp"
+    ],
+    "md": [
+     "12 बातें जो लोग गर्भनिरोध के बारे में कहते हैं। पहचानिए क्या सच है और क्या सुनी-सुनाई। 2 मिनट, कोई लॉगिन नहीं।",
+     "12 things people say about contraception. Spot the facts from the hearsay. 2 minutes, no login."
+    ],
+    "sc": "WebApplication (Quiz)",
+    "en_kw": "none in the approved list"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "सच या सुनी-सुनाई: आप कितना जानती हैं?",
+     "en": "Myth or fact: how much do you really know?"
+    },
+    {
+     "label": "Start screen",
+     "hi": "हर कार्ड पर एक बात है जो लोग अक्सर कहते हैं। बताइए, यह सच है या सुनी-सुनाई? 12 कार्ड · 2 मिनट · कोई लॉगिन नहीं",
+     "en": "Each card shows something people often say. Is it a myth or a fact? 12 questions · 2 minutes · no login"
+    },
+    {
+     "label": "Card 1 (सुनी-सुनाई)",
+     "hi": [
+      "गर्भनिरोधक अपनाने से बाँझपन हो जाता है।",
+      "→ आधुनिक साधन बंद करने पर माँ बनने की क्षमता लौट आती है।"
+     ],
+     "en": [
+      "Using contraception makes you infertile. [Myth]",
+      "→ Fertility returns once a modern method is stopped."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 2 (सुनी-सुनाई)",
+     "hi": [
+      "IUCD/कॉपर-टी शरीर में घूमकर कहीं और चली जाती है।",
+      "→ IUCD/कॉपर-टी गर्भाशय में अपनी जगह पर ही रहती है।"
+     ],
+     "en": [
+      "An IUCD/Copper T can move around inside the body. [Myth]",
+      "→ An IUCD/Copper T stays in its place inside the uterus."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 3 (सच)",
+     "hi": [
+      "एक बार के संबंध से भी गर्भ ठहर सकता है।",
+      "→ यह सच है। इसलिए हर बार सुरक्षा ज़रूरी है।"
+     ],
+     "en": [
+      "You can get pregnant from even a single occurrence of sexual intercourse. [Fact]",
+      "→ This is a fact. That is why protection matters every time."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 4 (सच)",
+     "hi": [
+      "छाया गोली में हॉर्मोन नहीं होता।",
+      "→ छाया हॉर्मोन-रहित गोली है। इसे शुरू के 3 महीने सप्ताह में 2 दिन और उसके बाद सप्ताह में एक दिन लेना होता है।"
+     ],
+     "en": [
+      "The Chhaya pill has no hormones. [Fact]",
+      "→ Chhaya is a hormone-free pill. It is taken on 2 days a week for the first 3 months, and on 1 day a week after that."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 5 (सुनी-सुनाई)",
+     "hi": [
+      "अंतरा सुई एक बार लगवाने पर 5 साल चलती है।",
+      "→ अंतरा 3 महीने तक असर करती है। हर 3 महीने में सुई का नया डोज़ लगता है।"
+     ],
+     "en": [
+      "One Antara injection works for 5 years. [Myth]",
+      "→ Antara works for 3 months. A new dose is due every 3 months."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 6 (सुनी-सुनाई)",
+     "hi": [
+      "आपातकालीन गोली से गर्भपात होता है।",
+      "→ यह गर्भ ठहरने से पहले ही काम करती है। ठहरे हुए गर्भ पर इसका असर नहीं होता।"
+     ],
+     "en": [
+      "The emergency pill causes an abortion. [Myth]",
+      "→ It works before a pregnancy begins. It has no effect on an existing pregnancy."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 7 (सच)",
+     "hi": [
+      "कंडोम अनचाहे गर्भ और यौन संक्रमण, दोनों से बचाता है।",
+      "→ कंडोम अकेला साधन है जो दोनों से बचाता है।"
+     ],
+     "en": [
+      "A condom protects against both pregnancy and sexual infections. [Fact]",
+      "→ It is the only method that protects against both."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 8 (सुनी-सुनाई)",
+     "hi": [
+      "गर्भनिरोधक गोलियाँ पेट में जमा होकर घाव बना देती हैं।",
+      "→ गोलियाँ पच जाती हैं और शरीर से बाहर निकल जाती हैं।"
+     ],
+     "en": [
+      "Contraceptive pills collect in the stomach and cause sores. [Myth]",
+      "→ Pills are digested and leave the body."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 9 (सच)",
+     "hi": [
+      "IUCD/कॉपर-टी निकलवाने के बाद महिला फिर से माँ बन सकती है।",
+      "→ निकलवाने के तुरंत बाद माँ बनने की क्षमता लौट आती है।"
+     ],
+     "en": [
+      "A woman can become a mother again after her IUCD/Copper T is removed. [Fact]",
+      "→ Fertility returns right after it is removed."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 10 (सुनी-सुनाई)",
+     "hi": [
+      "\"सुरक्षित दिन\" गिनना गर्भ रोकने का पक्का तरीका है।",
+      "→ दिन गिनने में आसानी से ग़लती हो सकती है, इसलिए आधुनिक साधन कहीं ज़्यादा भरोसेमंद हैं।"
+     ],
+     "en": [
+      "Counting \"safe days\" is a sure way to prevent pregnancy. [Myth]",
+      "→ Counting safe days is not a very effective method, as mistakes in counting are easy; modern methods are far more reliable."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 11 (सच)",
+     "hi": [
+      "ये साधन सरकारी स्वास्थ्य केंद्रों पर मुफ़्त मिलते हैं।",
+      "→ अंतरा, छाया, माला-एन, IUCD/कॉपर-टी और कंडोम सरकारी स्वास्थ्य केंद्रों पर मुफ़्त में उपलब्ध हैं।"
+     ],
+     "en": [
+      "These methods are free at government health centres. [Fact]",
+      "→ Antara, Chhaya, Mala-N, IUCD/Copper T and condoms are all available free at government health facilities."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Card 12 (सुनी-सुनाई)",
+     "hi": [
+      "माला-एन गोली से मोटापा हो जाता है।",
+      "→ कुछ महिलाओं का थोड़ा वज़न बढ़ सकता है, पर यह मोटापा नहीं है।"
+     ],
+     "en": [
+      "The Mala-N pill makes you fat. [Myth]",
+      "→ Some women may gain a little weight, but it does not cause obesity."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Result: 80–100",
+     "hi": "सच की पारखी · शाबाश! सुनी-सुनाई बातें आपको भटका नहीं सकतीं।",
+     "en": "Fact Expert · Well done! Myths can't fool you."
+    },
+    {
+     "label": "Result: 50–79",
+     "hi": "समझदार · बहुत अच्छे! कुछ बातें और जान लें, फिर आप सच की पारखी हैं।",
+     "en": "Samajhdaar · Nearly there! A few more facts and you're a Fact Expert."
+    },
+    {
+     "label": "Result: below 50",
+     "hi": "जानकार · अच्छी शुरुआत! सही जानकारी पढ़ें और फिर से खेलें।",
+     "en": "Jaankar · A good start! Read the facts and play again."
+    },
+    {
+     "label": "Next steps",
+     "hi": "भ्रम और सच: सब पढ़ें · क्या सेफ़ डेज़ भरोसेमंद हैं? · साधनों की तुलना करें · सखी से बात करें · फिर से खेलें",
+     "en": "Read all myths and facts · Are safe days reliable? · Compare methods · Talk to Sakhi · Play again"
+    }
+   ]
+  },
+  {
+   "no": "7",
+   "hi": "भ्रम और सच",
+   "en": "Myths and facts",
+   "url": "/sach-aur-mithak",
+   "en_url": "/en/sach-aur-mithak",
+   "seo": {
+    "kw": [
+     [
+      "pregnancy rokne ke gharelu upay",
+      "प्रेगनेंसी रोकने के घरेलू उपाय"
+     ],
+     [
+      "haldi se pregnancy rokne ke upay",
+      "हल्दी से प्रेगनेंसी"
+     ]
+    ],
+    "ti": [
+     "प्रेगनेंसी रोकने के घरेलू उपाय: सच क्या है? | विकल्प",
+     "Home remedies to prevent pregnancy: myths and facts | Vikalp"
+    ],
+    "md": [
+     "क्या हल्दी या घरेलू उपाय से प्रेगनेंसी रुकती है? गर्भनिरोधक साधनों से जुड़े 30 मिथक और उनका सच।",
+     "Can turmeric or home remedies prevent pregnancy? 30 myths about contraceptive methods, and the facts."
+    ],
+    "sc": "FAQPage",
+    "en_kw": "home remedies to prevent pregnancy (not measured)"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "क्या प्रेगनेंसी रोकने के घरेलू उपाय काम करते हैं?",
+     "en": "Do home remedies to prevent pregnancy really work?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "हल्दी, गर्म चीज़ें या कोई भी घरेलू नुस्खा गर्भ नहीं रोकता। गर्भनिरोधक साधनों के बारे में भी बहुत सी बातें सुनी-सुनाई होती हैं। नीचे हर साधन से जुड़ी आम बातें और उनका सच दिया गया है।",
+     "en": "Turmeric, \"hot\" foods or any home remedy will not prevent pregnancy. Much of what people say about contraceptive methods is myth, not fact. Below are the common beliefs about each method, and the facts."
+    },
+    {
+     "label": "H2",
+     "hi": "क्या हल्दी से प्रेगनेंसी रुकती है?",
+     "en": "Can turmeric (haldi) prevent pregnancy?"
+    },
+    {
+     "label": "NEW myth",
+     "hi": "सुनी-सुनाई: हल्दी या घरेलू नुस्खों से प्रेगनेंसी रुक जाती है। सच: नहीं, किसी भी घरेलू उपाय से गर्भ नहीं रुकता। भरोसेमंद साधन अपनाएँ।",
+     "en": "Myth: Turmeric or home remedies stop pregnancy. Fact: No home remedy prevents pregnancy. Use a reliable method."
+    },
+    {
+     "label": "NEW myth",
+     "hi": "सुनी-सुनाई: गर्भनिरोधक गोली से वज़न बहुत बढ़ जाता है। सच: छाया हॉर्मोन-रहित है और इससे वज़न नहीं बढ़ता। माला-एन से कुछ महिलाओं का थोड़ा वज़न बढ़ सकता है, पर यह मोटापा नहीं है।",
+     "en": "Myth: Contraceptive pills cause a lot of weight gain. Fact: Chhaya is hormone-free and does not cause weight gain. Some women gain a little weight on Mala-N, but it does not cause obesity."
+    },
+    {
+     "group": "गर्भनिरोधक साधनों से जुड़े सामान्य मिथक · General myths"
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: गर्भनिरोधक अपनाने से बाँझपन हो जाता है।",
+      "सच: नहीं, किसी भी आधुनिक गर्भनिरोधक साधन से बाँझपन नहीं होता। अस्थायी गर्भनिरोधक साधन बंद करने पर महिला दोबारा गर्भधारण कर सकती है।"
+     ],
+     "en": [
+      "Myth: Using contraception makes you infertile.",
+      "Fact: No modern method causes infertility. After stopping use of a reversible method, a woman can become pregnant again."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: गर्भनिरोधक साधन शादीशुदा लोगों के लिए ही होते हैं।",
+      "सच: नहीं, सभी यौन सक्रिय व्यक्ति – चाहे विवाहित हों या नहीं – अपनी मर्जी से सुरक्षित साधन अपना सकते हैं।"
+     ],
+     "en": [
+      "Myth: Contraception is only for married people.",
+      "Fact: No. Every sexually active person, married or not, can choose a safe method."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: गर्भनिरोधक साधन अपनाने से लोग क्या सोचेंगे, बदनामी होती है।",
+      "सच: गर्भनिरोधक सेवाएँ गोपनीयता से दी जाती हैं, इसलिए घबराए नहीं। अपने शरीर और परिवार की ज़िम्मेदारी लेना समझदारी है, शर्म की बात नहीं।"
+     ],
+     "en": [
+      "Myth: People will talk; using contraception brings shame.",
+      "Fact: Contraceptive services are confidential, so don't worry. Taking care of your body and family is wise, not shameful."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: गर्भनिरोधक गोलियाँ पेट में जमा होकर घाव बना देती हैं।",
+      "सच: नहीं, यह पूरी तरह गलत धारणा है। गोलियाँ पच जाती हैं और शरीर से बाहर निकल जाती हैं।"
+     ],
+     "en": [
+      "Myth: Contraceptive pills collect in the stomach and cause sores.",
+      "Fact: Completely false. Pills are digested and leave the body."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: अगर महीने में 1-2 बार ही संबंध होते हैं, तो कोई साधन इस्तेमाल करना ज़रूरी नहीं।",
+      "सच: 1 बार के संबंध से भी गर्भ ठहर सकता है इसलिए कभी भी बिना सुरक्षा संबंध नहीं बनाएं।"
+     ],
+     "en": [
+      "Myth: If you have intercourse only once or twice a month, you don't need a method.",
+      "Fact: You can get pregnant from a single occasion of sexual intercourse, hence ensure protection on each occasion."
+     ],
+     "plain": true
+    },
+    {
+     "group": "अंतरा सुई से जुड़े मिथक · Antara"
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: अंतरा सुई लगवाने से महिलाएं सुंदर दिखने लगती हैं।",
+      "सच: नहीं। ये सिर्फ मन का संतुलन होता है – चिंता मुक्त होने की वजह से महिला खुश और आत्मविश्वासी दिखती है।"
+     ],
+     "en": [
+      "Myth: Women look prettier after the Antara injection.",
+      "Fact: No. A woman free of worry simply feels happier and more confident."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: अंतरा से बहुत ज़्यादा वज़न बढ़ जाता है।",
+      "सच: नहीं। अंतरा के इस्तेमाल से साल में 1-2 किलो वजन बढ़ सकता है, ज़्यादा बढ़ रहा हो तो अन्य कारण हो सकते हैं – जैसे कम व्यायाम या ज़्यादा खानपान या कोई बीमारी।"
+     ],
+     "en": [
+      "Myth: Antara causes a lot of weight gain.",
+      "Fact: No. Antara may add 1 to 2 kg a year; more than that may have other causes, such as less exercise, more food or an illness."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: अंतरा लेने से शरीर में बहुत गर्मी हो जाती है।",
+      "सच: नहीं। शरीर में गर्मी महसूस होना मौसम या अन्य कारणों की वजह से हो सकता है।"
+     ],
+     "en": [
+      "Myth: Antara makes the body very hot.",
+      "Fact: No. Feeling hot may be due to the weather or other reasons."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: अंतरा सुई के बाद बहुत ब्लीडिंग होती है, जिससे महिलाएं पूजा या रसोई में नहीं जा सकतीं।",
+      "सच: ब्लीडिंग शुरू के 2-3 महीने तक हो सकती है, पर यह खून दूषित नहीं होता और किसी काम से परहेज़ की ज़रूरत नहीं।"
+     ],
+     "en": [
+      "Myth: Antara causes heavy bleeding, so women cannot do puja or cook.",
+      "Fact: Bleeding may occur for the first 2 to 3 months, but the blood is not impure and no activity needs to be avoided."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: अंतरा सुई 5 साल तक चलती है।",
+      "सच: नहीं। अंतरा सिर्फ 3 महीने तक प्रभावी होती है। हर 3 महीने में सुई का नया डोज़ लगवाना होता है।"
+     ],
+     "en": [
+      "Myth: One Antara injection lasts 5 years.",
+      "Fact: No. Antara works for 3 months only. A new dose of injection is needed every 3 months."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: अंतरा से प्रजनन शक्ति खत्म हो जाती है।",
+      "सच: नहीं। सुई की आखिरी डोज़ के 7-10 महीने बाद महिला फिर से गर्भधारण कर सकती है।"
+     ],
+     "en": [
+      "Myth: Antara destroys fertility.",
+      "Fact: No. A woman can conceive again 7 to 10 months after the last dose."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: अंतरा पहली बार लगवाना खतरनाक होता है।",
+      "सच: नहीं। डॉक्टर या स्वास्थ्यकर्मी से सलाह लेकर अंतरा आसानी से लगवाया जा सकता है।"
+     ],
+     "en": [
+      "Myth: Taking Antara for the first time is dangerous.",
+      "Fact: No. It can easily be taken after advice from a doctor or health worker."
+     ],
+     "plain": true
+    },
+    {
+     "group": "छाया गोली से जुड़े मिथक · Chhaya"
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: छाया गोली खाने से घबराहट होती है।",
+      "सच: नहीं। छाया गोली हॉर्मोन-रहित होती है, इससे घबराहट नहीं होती। डर नई चीज़ को अपनाने का हो सकता है।"
+     ],
+     "en": [
+      "Myth: The Chhaya pill causes anxiety.",
+      "Fact: No. Chhaya is hormone-free and does not cause anxiety. The worry may simply be about trying something new."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: छाया और माला-एन में से छाया कमजोर है।",
+      "सच: नहीं। दोनों प्रभावी हैं। सही विकल्प महिला की ज़रूरत और सलाह से तय होता है।"
+     ],
+     "en": [
+      "Myth: Of Chhaya and Mala-N, Chhaya is weaker.",
+      "Fact: No. Both are effective. The right choice depends on the woman's needs and advice."
+     ],
+     "plain": true
+    },
+    {
+     "group": "माला-एन गोली से जुड़े मिथक · Mala-N"
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: माला-एन से पीरियड देर से आते हैं और बच्चेदानी खराब हो जाती है।",
+      "सच: नहीं। माला-एन से तो पीरियड नियमित होते हैं और यह बच्चेदानी को कोई नुकसान नहीं पहुंचाती।"
+     ],
+     "en": [
+      "Myth: Mala-N delays periods and damages the uterus.",
+      "Fact: No. Mala-N makes periods regular and does no harm to the uterus."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: माला-एन से मोटापा हो जाता है।",
+      "सच: नहीं। हल्का वज़न बढ़ सकता है, लेकिन यह मोटापा नहीं है। खानपान और व्यायाम से नियंत्रित किया जा सकता है।"
+     ],
+     "en": [
+      "Myth: Mala-N causes obesity.",
+      "Fact: No. There may be slight weight gain, but it is not obesity, and diet and exercise can control it."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: माला-एन से प्रेगनेंसी में दिक्कत होती है।",
+      "सच: नहीं। गोली छोड़ने के बाद, महिला, दोबारा आसानी से गर्भधारण कर सकती है।"
+     ],
+     "en": [
+      "Myth: Mala-N causes problems getting pregnant later.",
+      "Fact: No. After stopping the pill, a woman can conceive easily."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: गोलियाँ रोज खानी पड़ती हैं, भूल गए तो नुकसान हो जाएगा।",
+      "सच: अगर भूल जाएं तो सलाह के अनुसार आगे की गोली लें और डॉक्टर से सलाह लें।"
+     ],
+     "en": [
+      "Myth: Pills must be taken daily; forgetting one causes harm.",
+      "Fact: If you forget, take the next pill as advised and consult a doctor."
+     ],
+     "plain": true
+    },
+    {
+     "group": "IUCD से जुड़े मिथक · IUCD"
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: IUCD से पेट दर्द और ब्लीडिंग बहुत होती है।",
+      "सच: नहीं। शुरू के कुछ महीने हल्की परेशानी हो सकती है जो धीरे-धीरे ठीक हो जाती है।"
+     ],
+     "en": [
+      "Myth: An IUCD causes a lot of stomach pain and bleeding.",
+      "Fact: No. There may be mild discomfort for the first few months, which gradually goes away."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: IUCD बच्चेदानी से बाहर निकलकर शरीर के किसी और हिस्से में चली जाती है।",
+      "सच: नहीं। यह सिर्फ गर्भाशय में ही रहती है, और सही से लगाई जाए तो बिल्कुल सुरक्षित होती है।"
+     ],
+     "en": [
+      "Myth: An IUCD can leave the uterus and move elsewhere in the body.",
+      "Fact: No. It stays only in the uterus and is completely safe when inserted correctly."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: IUCD संबंध बनाते समय पति को चोट पहुंचाती है।",
+      "सच: नहीं। यह गर्भाशय में होती है और संबंध बनाते समय किसी को महसूस नहीं होती।"
+     ],
+     "en": [
+      "Myth: An IUCD hurts the husband during intercourse.",
+      "Fact: No. It is inside the uterus and no one can feel it during intercourse."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: IUCD से सफेद पानी आने लगता है।",
+      "सच: नहीं। सफेद पानी का कारण संक्रमण हो सकता है, IUCD नहीं।"
+     ],
+     "en": [
+      "Myth: An IUCD causes white discharge.",
+      "Fact: No. White discharge may be caused by an infection, not the IUCD."
+     ],
+     "plain": true
+    },
+    {
+     "group": "कंडोम से जुड़े मिथक · Condom"
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: कंडोम से इंफेक्शन हो जाता है।",
+      "सच: नहीं। कंडोम से इंफेक्शन नहीं होता, बल्कि यह HIV और अन्य यौन संक्रमणों से बचाता है।"
+     ],
+     "en": [
+      "Myth: Condoms cause infections.",
+      "Fact: No. Condoms do not cause infections; they protect against HIV and other sexual infections."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: एक कंडोम बार-बार इस्तेमाल किया जा सकता है।",
+      "सच: नहीं। हर बार नया कंडोम इस्तेमाल करना होता है।"
+     ],
+     "en": [
+      "Myth: A condom can be used again and again.",
+      "Fact: No. A new condom must be used every time."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: कंडोम फट जाए तो कुछ नहीं होता।",
+      "सच: कंडोम फटने पर गर्भ रुक सकता है। ऐसे में 72 घंटे के भीतर ईज़ी गोली लें या डॉक्टर से सलाह करें।"
+     ],
+     "en": [
+      "Myth: Nothing happens if a condom breaks.",
+      "Fact: A broken condom can lead to pregnancy. Take the Easy pill within 72 hours or see a doctor."
+     ],
+     "plain": true
+    },
+    {
+     "group": "ईज़ी गोली/ आपातकालीन गोली से जुड़े मिथक · ईज़ी गोली/ आपातकालीन गोली से जुड़े मिथक"
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: ईज़ी गोली खाने से गर्भपात हो जाता है।",
+      "सच: नहीं। यह गर्भ ठहरने से पहले ही काम करती है। अगर गर्भ ठहर गया हो तो उस पर इसका कोई असर नहीं होता।"
+     ],
+     "en": [
+      "Myth: The Easy pill causes an abortion.",
+      "Fact: No. It works before a pregnancy begins. If a pregnancy has already started, it has no effect."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: ईज़ी गोली को हर बार संबंध के बाद लिया जा सकता है।",
+      "सच: नहीं। यह नियमित गर्भनिरोधक नहीं है। बार-बार लेने से शरीर पर असर हो सकता है और इतनी कारगर भी नहीं होगी।"
+     ],
+     "en": [
+      "Myth: The Easy pill can be taken after every time you have intercourse.",
+      "Fact: No. It is not a regular method. Taking it often can affect the body and it will not work as well."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Myth",
+     "hi": [
+      "सुनी-सुनाई: ईज़ी गोली और गर्भनिरोधक गोलियाँ एक जैसी होती हैं।",
+      "सच: नहीं। ईज़ी गोली इमरजेंसी के लिए है, जबकि माला-एन जैसी गोलियाँ रोज़ ली जाती हैं।"
+     ],
+     "en": [
+      "Myth: The Easy pill and contraceptive pills are the same.",
+      "Fact: No. The Easy pill is for emergencies, while pills like Mala-N are taken daily."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Next step",
+     "hi": "सच या सुनी-सुनाई? खेलें → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Play the Myth or fact quiz → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "8",
+   "hi": "पति-पत्नी के लिए",
+   "en": "For couples",
+   "url": "/saath-milkar-faisla",
+   "en_url": "/en/saath-milkar-faisla",
+   "seo": {
+    "kw": [
+     [
+      "ladki ko pregnant hone se kaise roke",
+      "लड़की को प्रेगनेंट होने से कैसे बचाएँ"
+     ],
+     [
+      "ladki ki pregnancy kaise roke",
+      "लड़की को प्रेगनेंट होने से"
+     ]
+    ],
+    "ti": [
+     "पत्नी को प्रेगनेंट होने से कैसे बचाएँ? पुरुषों के लिए",
+     "For couples: how husbands can help prevent pregnancy | Vikalp"
+    ],
+    "md": [
+     "पत्नी को अनचाहे गर्भ से कैसे बचाएँ? पुरुष क्या कर सकते हैं, और घर में बच्चे की बात कैसे करें।",
+     "How a man can help prevent an unwanted pregnancy, and how couples can talk about children at home."
+    ],
+    "sc": "MedicalWebPage, FAQPage",
+    "en_kw": "none measured in English"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "बच्चा कब और कितने, यह पति-पत्नी मिलकर कैसे तय करें?",
+     "en": "How can husband and wife decide together when to have children?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "बच्चा कब हो, यह फ़ैसला पति-पत्नी दोनों का है। पत्नी को अनचाहे गर्भ से बचाने के लिए पति कंडोम इस्तेमाल कर सकते हैं, और पत्नी के साथ बैठकर उसके लिए सही साधन चुन सकते हैं। सही जानकारी दोनों के पास हो, तो फ़ैसला आसान होता है।",
+     "en": "When to have a child is a decision for both husband and wife. A husband can use condoms to protect his wife from an unwanted pregnancy, and sit with her to choose the method that suits her. When both have the right information, the decision is easier."
+    },
+    {
+     "label": "H2",
+     "hi": "पत्नी को प्रेगनेंट होने से कैसे बचाएँ: पुरुष क्या कर सकते हैं?",
+     "en": "What can a man do to prevent pregnancy?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "कंडोम का इस्तेमाल करें; यह पति द्वारा उपयोग करने का साधन है।",
+      "पत्नी के साथ स्वास्थ्य केंद्र जाएँ और सवाल पूछें।",
+      "पत्नी को गोली या सुई की तारीख़ याद दिलाने में मदद करें।",
+      "परिवार के दबाव के आगे पत्नी का साथ दें।",
+      "स्थाई साधन चाहिए तो पुरुष नसबंदी भी आसान और मुफ़्त है।"
+     ],
+     "en": [
+      "Use condoms; it is a method to be used by the man.",
+      "Go with your wife to the health centre and ask questions.",
+      "Help her remember pill or injection dates.",
+      "Stand by your wife when the family puts on pressure.",
+      "For a permanent method, male sterilisation is simple and free."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "घर में यह बात कैसे करें?",
+     "en": "How do you raise it at home?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "सही समय चुनें, जब दोनों आराम से हों।",
+      "अपनी बात कहें: \"मैं चाहती हूँ कि पहला बच्चा तब हो जब हम तैयार हों।\"",
+      "माता-पिता/सास-ससुर को बताएँ कि अंतर रखने से माँ और बच्चा दोनों स्वस्थ रहते हैं।",
+      "ज़रूरत हो तो आशा दीदी को बातचीत में शामिल करें, या सखी हेल्पलाइन पर साथ में कॉल करें।"
+     ],
+     "en": [
+      "Pick a moment when you are both relaxed.",
+      "Say what you want: \"I want our first child when we are ready.\"",
+      "Tell your parents/in-laws that spacing keeps both mother and child healthy.",
+      "If needed, bring your ASHA didi into the conversation, or call the Sakhi Helpline together."
+     ]
+    },
+    {
+     "label": "Myth card",
+     "hi": "सुनी-सुनाई: गर्भनिरोध सिर्फ़ औरत की ज़िम्मेदारी है। सच: नहीं, यह दोनों की ज़िम्मेदारी है। कंडोम और पुरुष नसबंदी पुरुषों के साधन हैं।",
+     "en": "Myth: Contraception is only the woman's responsibility. Fact: It is both partners' responsibility. Condoms and male sterilisation are men's methods."
+    },
+    {
+     "label": "Related questions",
+     "hi": [
+      "क्या कंडोम से पति की ताक़त कम होती है? → नहीं।",
+      "क्या पत्नी अकेले जाकर साधन ले सकती है? → हाँ, यह उसका अधिकार है।",
+      "परिवार जल्दी बच्चा चाहे तो? → \"पहला बच्चा कब?\" पेज साथ में पढ़ें।"
+     ],
+     "en": [
+      "Do condoms reduce a man's strength? → No.",
+      "Can a wife get a method on her own? → Yes, it is her right.",
+      "What if the family wants a child soon? → Read \"When to have your first baby\" together."
+     ]
+    },
+    {
+     "label": "Next step",
+     "hi": "कंडोम → | साधनों की तुलना करें → | सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Condoms → | Compare methods → | Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "9",
+   "hi": "सवाल-जवाब",
+   "en": "FAQs",
+   "url": "/sawal-jawab",
+   "en_url": "/en/sawal-jawab",
+   "seo": {
+    "kw": [
+     [
+      "pregnancy rokne ke liye kya karna chahie",
+      "प्रेगनेंसी रोकने के लिए क्या करना चाहिए"
+     ],
+     [
+      "pregnancy ko rokne ke liye kya karna chahie",
+      "प्रेगनेंसी रोकने के लिए क्या करना चाहिए"
+     ],
+     [
+      "pregnancy rokne ke liye kya kre",
+      "प्रेगनेंसी रोकने के लिए क्या करना चाहिए"
+     ]
+    ],
+    "ti": [
+     "प्रेगनेंसी रोकने के लिए क्या करना चाहिए? सवाल-जवाब",
+     "Contraception FAQs: your questions answered | Vikalp"
+    ],
+    "md": [
+     "प्रेगनेंसी रोकने के लिए क्या करना चाहिए? अंतरा, छाया, माला-एन, IUCD/कॉपर-टी, कंडोम और आपातकालीन गोली पर 44 सवालों के सीधे जवाब।",
+     "What should you do to prevent pregnancy? Straight answers to 44 questions on Antara, Chhaya, Mala-N, IUCD/Copper T, condoms and the emergency pill."
+    ],
+    "sc": "FAQPage",
+    "en_kw": "none measured in English"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "प्रेगनेंसी रोकने के लिए क्या करना चाहिए?",
+     "en": "FAQs: what should you do to prevent pregnancy?"
+    },
+    {
+     "label": "Short answer",
+     "hi": "प्रेगनेंसी रोकने के लिए कोई आधुनिक साधन अपनाएँ: अंतरा, छाया, माला-एन, IUCD/कॉपर-टी या कंडोम। ये सुरक्षित हैं, सरकारी केंद्रों पर मुफ़्त हैं, और बंद करने पर माँ बनने की क्षमता लौट आती है। नीचे सबसे ज़्यादा पूछे जाने वाले सवाल हैं।",
+     "en": "To prevent pregnancy, use a modern method: Antara, Chhaya, Mala-N, IUCD/Copper T or condoms. They are safe, free at government centres, and fertility returns when you stop. The most common questions are below."
+    },
+    {
+     "group": "सामान्य जानकारी · General"
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: शादी के कितने समय बाद बच्चा होना चाहिए?",
+      "जवाब: पहली गर्भावस्था के लिए महिला की उम्र कम से कम 20 वर्ष होनी चाहिए।"
+     ],
+     "en": [
+      "Q: How long after marriage should we have a child?",
+      "A: The first pregnancy should be planned when the woman is at least 20 years of age."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: कम उम्र में गर्भधारण करने के क्या खतरे हैं?",
+      "जवाब: कम उम्र में गर्भधारण करने से माँ और बच्चा दोनों की सेहत को खतरा हो सकता है, जैसे माँ को खून की कमी व कमजोरी, कम वजन का बच्चा होना व, प्रसव के समय जटिलताएं हो सकती हैं।"
+     ],
+     "en": [
+      "Q: What are the risks of pregnancy at a young age?",
+      "A: It can harm the health of both mother and baby: anaemia and weakness in the mother, a low-birth-weight baby and complications at delivery."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: दो बच्चों के बीच कितना अंतर होना चाहिए?",
+      "जवाब: दो बच्चों के बीच में कम से कम 3 साल का अंतर होना चाहिए। इससे माँ की सेहत सुधरती है, पहले बच्चे का बेहतर पालन-पोषण होता है और आने वाला बच्चा भी स्वस्थ पैदा होता है।"
+     ],
+     "en": [
+      "Q: How big a gap should there be between two children?",
+      "A: At least 3 years. It improves the mother's health, the first child gets better care and the next baby is born healthy."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या सभी गर्भनिरोधक साधन सुरक्षित होते हैं?",
+      "जवाब: हाँ, सभी आधुनिक गर्भनिरोधक साधन अगर सही सलाह और तरीके से इस्तेमाल किये जाए तो सुरक्षित व असरदार होते हैं।"
+     ],
+     "en": [
+      "Q: Are all contraceptive methods safe?",
+      "A: Yes, all modern methods are safe and effective when used correctly and with the right advice."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या गर्भनिरोधक लेने से बाँझपन हो सकता है?",
+      "जवाब: नहीं। अस्थाई गर्भनिरोधक साधन बंद करने के बाद महिला की प्रजनन क्षमता लौट आती है और वह दोबारा गर्भवती हो सकती है।"
+     ],
+     "en": [
+      "Q: Can contraception cause infertility?",
+      "A: No. After stopping a reversible method, fertility returns and the woman can become pregnant again."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या महिला अकेले आकर गर्भनिरोधक ले सकती है?",
+      "जवाब: हाँ, महिला अकेले आकर गर्भनिरोधक ले सकती है, यह उसका अधिकार है। उसे साधन लेने के लिए किसी की भी अनुमति की जरूरत नहीं है।"
+     ],
+     "en": [
+      "Q: Can a woman get contraception on her own?",
+      "A: Yes, it is her right. She does not need anyone's permission."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: सबसे आसान गर्भनिरोधक कौन सा है?",
+      "जवाब: सभी साधन सुरक्षित व इस्तेमाल में आसान हैं जैसे कंडोम, गोलियाँ, अंतरा, छाया व IUCD। जो आपको पसंद हो व सुविधा लगे, वो अपनाएँ।"
+     ],
+     "en": [
+      "Q: What is the easiest method?",
+      "A: All methods are safe and easy to use: condoms, pills, Antara, Chhaya and IUCD. Choose what suits you."
+     ],
+     "plain": true
+    },
+    {
+     "group": "अंतरा सुई · Antara injection"
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: अंतरा सुई क्या है?",
+      "जवाब: यह एक हॉर्मोन युक्त गर्भनिरोधक सुई है जो हर 3 महीने में लगायी जाती है और अनचाहे गर्भ से बचाती है।"
+     ],
+     "en": [
+      "Q: What is the Antara injection?",
+      "A: A hormonal contraceptive injection given every 3 months that protects against unwanted pregnancy."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: इसे कब लगवा सकते हैं?",
+      "जवाब: माहवारी के पहले 7 दिनों में, गर्भपात के 7 दिन में, डिलीवरी के 6 हफ्ते बाद, या जब यह निश्चित हो कि महिला गर्भवती नहीं है।"
+     ],
+     "en": [
+      "Q: When can it be given?",
+      "A: In the first 7 days of a period, within 7 days of an abortion, 6 weeks after delivery, or when it is certain the woman is not pregnant."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या इससे माहवारी रुक जाती है?",
+      "जवाब: हाँ, कुछ महिलाओं में माहवारी कम या बंद हो सकती है – यह सामान्य है, जब सुई लेना बंद करते हैं तो माहवारी लौट आती है।"
+     ],
+     "en": [
+      "Q: Does it stop periods?",
+      "A: In some women periods become lighter or stop. This is normal, and periods return when the injection is stopped."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या छोटे बच्चे की माँ इसे ले सकती है?",
+      "जवाब: हाँ, डिलीवरी के 6 सप्ताह बाद अंतरा लगवाया जा सकता है । इससे दूध पर असर नहीं होता।"
+     ],
+     "en": [
+      "Q: Can the mother of a small baby take it?",
+      "A: Yes, Antara can be given 6 weeks after delivery. It does not affect breast milk."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या नवविवाहित महिलाएं अंतरा ले सकती हैं?",
+      "जवाब: हाँ, अगर वे फिलहाल बच्चा नहीं चाहतीं, तो अंतरा एक अच्छा विकल्प है।"
+     ],
+     "en": [
+      "Q: Can newly married women take Antara?",
+      "A: Yes, if they do not want a child yet, Antara is a good option."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या अंतरा से बच्चेदानी को नुकसान होता है?",
+      "जवाब: नहीं, अंतरा सुई लगवाने से बच्चेदानी को नुकसान नहीं होता। डॉक्टर की सलाह से सही समय पर लगवाने पर यह सुरक्षित है।"
+     ],
+     "en": [
+      "Q: Does Antara damage the uterus?",
+      "A: No. Given at the right time on a doctor's advice, it is safe."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: अंतरा सुई लगने के बाद माहवारी ज़्यादा क्यों आती है?",
+      "जवाब: अंतरा सुई से अधिकतर महिलाओं की माहवारी में बदलाव होते हैं जैसे कि सामान्य से अधिक दिन रक्तस्राव, दो माहवारी के बीच दाग लगना। शुरू-शुरू में ब्लीडिंग अधिक होना अंतरा सुई में मौजूद हॉर्मोन प्रोजेस्टीन के प्रभाव के कारण होता है परन्तु कुछ माह में खून जाना कम हो जाता है और माहवारी बंद भी हो सकती है। यदि खून लगातार, ज़्यादा जा रहा हो तो स्वास्थ्य केंद्र पर संपर्क करें।"
+     ],
+     "en": [
+      "Q: Why are periods heavier after the Antara injection?",
+      "A: Most women see changes in their periods, such as longer bleeding or spotting between periods. Early heavy bleeding is caused by the hormone progestin in Antara; it reduces within a few months and periods may stop. If bleeding is continuous or heavy, visit a health centre."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: अंतरा सुई लगने के कितने दिनों बाद काम करने लगती है?",
+      "जवाब: अंतरा सुई लगने के बाद लगभग 5 से 7 दिनों में काम करने लगती है परंतु सही समय पर शुरु करना बहुत जरूरी है।"
+     ],
+     "en": [
+      "Q: How many days after the injection does it start working?",
+      "A: About 5 to 7 days after the injection, but starting at the right time is very important."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: अंतरा सुई लगवाने के बाद माहवारी आनी क्यों बंद हो जाती है? क्या इससे कोई परेशानी हो सकती है?",
+      "जवाब: अंतरा सुई में हार्मोन प्रोजेस्टीन होता है। यह हार्मोन महिला के अंडाशय में अंडा बनने की प्रक्रिया को रोक देता है और गर्भाशय की आंतरिक परत को पतला कर देता है और इसके प्रभाव से माहवारी आनी बंद हो जाती है। माहवारी नहीं आना सामान्य है और इससे कोई परेशानी नहीं होती है बल्कि यह महिलाओं के स्वास्थ्य के लिए लाभदायक है, क्योंकि इससे माहवारी में जाने वाले रक्त की बचत होती है और यह खून की कमी को कम करता है। सुई बंद करने के कुछ महीनों मे माहवारी वापस शुरू हो जाती है।"
+     ],
+     "en": [
+      "Q: Why do periods stop after Antara? Is it a problem?",
+      "A: Antara contains the hormone progestin, which stops eggs being released and thins the lining of the uterus, so periods may stop. This is normal and not a problem; it can even help, as it saves blood and reduces anaemia. Periods return a few months after stopping."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: अगर महिला बच्चे को दूध पिला रही है, तो क्या वह अंतरा सुई ले सकती है?",
+      "जवाब: हाँ। बच्चे की उम्र डेढ़ माह होने के बाद, जब यह सुनिश्चित हो की महिला गर्भवती नहीं है, महिला कभी भी अंतरा सुई लगवा सकती है। इससे माँ के दूध पर कोई प्रभाव नहीं पड़ता है।"
+     ],
+     "en": [
+      "Q: Can a breastfeeding woman take Antara?",
+      "A: Yes. Once the baby is six weeks old, and it is certain she is not pregnant, she can take Antara at any time. It does not affect breast milk."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: अंतरा सुई कहां मिलेगी और इसकी कीमत कितनी है?",
+      "जवाब: अंतरा सुई सभी सरकारी स्वास्थ्य केंद्रों पर नि:शुल्क लगायी जाती है। पहली सुई हमेशा डॉक्टर की देख-रेख में ही लगवानी चाहिये। प्राइवेट क्लिनिक या अस्पतालों में इसका शुल्क देना होता है और वह अलग-अलग जगह भिन्न हो सकता है।"
+     ],
+     "en": [
+      "Q: Where can I get Antara, and what does it cost?",
+      "A: It is free at all government health centres. The first injection should always be given under a doctor's supervision. Private clinics and hospitals charge a fee that varies."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या अंतरा सुई थाईराइड के मरीज़ को दी जा सकती है?",
+      "जवाब: हाँ। अंतरा सुई थाईराइड मरीज़ को दी जा सकती है।"
+     ],
+     "en": [
+      "Q: Can Antara be given to a woman with thyroid disease?",
+      "A: Yes."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या अंतरा सुई, 6 डोज के बाद, लेना बंद करवा देना चाहिए?",
+      "जवाब: नहीं। जब तक महिला गर्भनिरोधन चाहती है, तब तक वह अंतरा सुई इस्तेमाल कर सकती है परंतु यदि उनके स्वास्थ्य में कोई बदलाव आता है या उन्हें कोई बीमारी हो जाती है तो अगली डोज़ लेने से पहले डॉक्टर से ज़रूर संपर्क करें।"
+     ],
+     "en": [
+      "Q: Should Antara be stopped after 6 doses?",
+      "A: No. She can continue as long as she wants contraception, but should see a doctor before the next dose if her health changes or she develops an illness."
+     ],
+     "plain": true
+    },
+    {
+     "group": "छाया गोली · Chhaya pill"
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: छाया गोली क्या है?",
+      "जवाब: यह हॉर्मोन रहित गर्भनिरोधक गोली है जिसे महिला द्वारा लिया जाता है।"
+     ],
+     "en": [
+      "Q: What is the Chhaya pill?",
+      "A: A hormone-free contraceptive pill taken by women."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: इसे कैसे लेना चाहिए?",
+      "जवाब: छाया गोलियाँ, पहले 3 महीने में नियत किये गए हफ्ते में 2 दिन और चौथे महीने से नियत किये गए हफ्ते में 1 दिन लेनी होती हैं।"
+     ],
+     "en": [
+      "Q: How should it be taken?",
+      "A: Twice a week on fixed days for the first 3 months, and once a week on a fixed day from the 4th month."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: अगर गोली लेना भूल जाएं तो क्या करें?",
+      "जवाब: जैसे ही याद आए, तुरंत 1 गोली लें और अपने सेवा प्रदाता से संपर्क करें।"
+     ],
+     "en": [
+      "Q: What if I forget a pill?",
+      "A: Take one pill as soon as you remember and contact your healthcare provider."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या छाया गोली के कोई साइड इफेक्ट हैं?",
+      "जवाब: छाया गोली के बहुत कम साइड इफेक्ट हैं – जैसे माहवारी में थोड़ा बदलाव पर यह नुकसान नहीं करता।"
+     ],
+     "en": [
+      "Q: Does Chhaya have side effects?",
+      "A: Very few, such as small changes in periods, and it does no harm."
+     ],
+     "plain": true
+    },
+    {
+     "group": "माला-एन गोली · Mala-N pill"
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: माला-एन क्या है?",
+      "जवाब: माला-एन हॉर्मोन युक्त रोज ली जाने वाली गर्भनिरोधक गोली है।"
+     ],
+     "en": [
+      "Q: What is Mala-N?",
+      "A: A hormonal contraceptive pill taken every day."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: इसे कब से शुरू कर सकते हैं?",
+      "जवाब: माहवारी के पहले दिन से या गर्भपात के 7 दिन के अंदर या डिलीवरी के बाद 6 महीने बाद शुरू कर सकते हैं।"
+     ],
+     "en": [
+      "Q: When can it be started?",
+      "A: From the first day of a period, within 7 days of an abortion, or 6 months after delivery."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या इसे रोज़ लेना ज़रूरी है?",
+      "जवाब: हाँ, इन्हें हर रोज़ लेना ज़रूरी है, एक भी दिन न छोड़ें। एक पत्ता खत्म होते ही तुरंत अगला पत्ता शुरू करें।"
+     ],
+     "en": [
+      "Q: Does it have to be taken every day?",
+      "A: Yes, every day, without missing a day. Start the next strip as soon as one ends."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: अगर गोली खाना भूल जाएं तो?",
+      "जवाब: जैसे ही याद आए, तुरंत 1 गोली लें और अपने सेवा प्रदाता से संपर्क करें।"
+     ],
+     "en": [
+      "Q: What if I forget a pill?",
+      "A: Take one pill as soon as you remember and contact your healthcare provider."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या इससे मोटापा या बच्चेदानी को नुकसान होता है?",
+      "जवाब: नहीं, इससे मोटापा या बच्चेदानी को नुकसान नहीं होता। कुछ महिलाओं का थोड़ा वजन बढ़ सकता है, लेकिन यह खतरनाक नहीं है।"
+     ],
+     "en": [
+      "Q: Does it cause obesity or harm the uterus?",
+      "A: No. Some women gain a little weight, but it is not dangerous."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या माला-एन गोली थायराइड के मरीज़ को दी जा सकती है?",
+      "जवाब: हाँ। माला-एन गोली थायराइड के मरीज़ को दी जा सकती है।"
+     ],
+     "en": [
+      "Q: Can Mala-N be given to a woman with thyroid disease?",
+      "A: Yes."
+     ],
+     "plain": true
+    },
+    {
+     "group": "IUCD · IUCD/Copper T"
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: IUCD क्या है?",
+      "जवाब: यह बच्चेदानी में लगाया जाने वाला एक छोटा यंत्र है जो 5–10 साल तक गर्भ ठहरने से बचाता है।"
+     ],
+     "en": [
+      "Q: What is an IUCD?",
+      "A: A small device placed in the uterus that prevents pregnancy for 5 to 10 years."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या इसे कभी भी लगवा सकते हैं?",
+      "जवाब: हाँ, डिलीवरी के तुरंत बाद, गर्भपात के बाद या माहवारी के दौरान लगवा सकते हैं।"
+     ],
+     "en": [
+      "Q: Can it be inserted at any time?",
+      "A: Yes: right after delivery, after an abortion or during a period."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या इससे संक्रमण या दर्द होता है?",
+      "जवाब: शुरू में हल्का दर्द या ज़्यादा खून जा सकता है, लेकिन यह 2-3 महीने में ठीक हो जाता है। इससे संक्रमण नहीं होता है।"
+     ],
+     "en": [
+      "Q: Does it cause infection or pain?",
+      "A: There may be mild pain or heavier bleeding at first, which settles in 2 to 3 months. It does not cause infection."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या यह अपने आप निकल सकती है?",
+      "जवाब: अगर सही से लगा हो तो नहीं। अगर कोई असुविधा हो तो तुरंत डॉक्टर को दिखाएं।"
+     ],
+     "en": [
+      "Q: Can it come out by itself?",
+      "A: Not if it is inserted correctly. If you feel any discomfort, see a doctor straight away."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या इससे वजन या सफेद पानी बढ़ता है?",
+      "जवाब: नहीं, इसका वजन पर कोई असर नहीं होता और न ही यह सफेद पानी का कारण होती है परंतु सफेद पानी की वजह कुछ और हो सकती है और ऐसे में तुरंत सेवाप्रदाता से संपर्क करें।"
+     ],
+     "en": [
+      "Q: Does it cause weight gain or white discharge?",
+      "A: No. It does not affect weight or cause discharge. Discharge may have another cause, so contact a healthcare provider."
+     ],
+     "plain": true
+    },
+    {
+     "group": "कंडोम (निरोध) · Condom"
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: कंडोम क्या है?",
+      "जवाब: यह एक पतला रबर का खोल होता है जो पुरुष के उत्तेजित लिंग पर पहनते हैं। यह अनचाहे गर्भ और यौन संक्रमण से बचाव करता है।"
+     ],
+     "en": [
+      "Q: What is a condom?",
+      "A: A thin rubber sheath a man wears on his erect penis. It protects against unwanted pregnancy and sexual infections."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: कंडोम का उपयोग कैसे करें?",
+      "जवाब: उत्तेजित लिंग पर पहनें, हर बार नया कंडोम लें, सही तरीके से पहनें और इस्तेमाल के बाद टिशू में लपेट कर कचरे में फेंकें।"
+     ],
+     "en": [
+      "Q: How is a condom used?",
+      "A: Put it on the erect penis, use a new one every time, wear it correctly, and after use wrap it in tissue and throw it in the bin."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या कंडोम फेल या असफल हो सकता है?",
+      "जवाब: अगर सही तरीके से इस्तेमाल न किया जाए तो कंडोम फट सकता है। ऐसी स्थिति में 72 घंटे के भीतर आपातकालीन गोली लें।"
+     ],
+     "en": [
+      "Q: Can a condom fail?",
+      "A: If not used correctly it can break. In that case, take the emergency pill within 72 hours."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: कंडोम के उपयोग से क्या संक्रमण से भी बचा जा सकता है?",
+      "जवाब: हाँ, कंडोम HIV/AIDS और अन्य यौन रोगों से भी बचाव करता है।"
+     ],
+     "en": [
+      "Q: Do condoms also protect against infections?",
+      "A: Yes, condoms protect against HIV/AIDS and other sexual infections."
+     ],
+     "plain": true
+    },
+    {
+     "group": "ईज़ी गोली (आपातकालीन गोली) · ईज़ी गोली (आपातकालीन गोली)"
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: ईज़ी गोली क्या है?",
+      "जवाब: यह एक आपातकालीन गर्भनिरोधक गोली है जो असुरक्षित संबंध के 72 घंटे के भीतर ली जाती है।"
+     ],
+     "en": [
+      "Q: What is the Easy pill?",
+      "A: An emergency contraceptive pill taken within 72 hours of unprotected intercourse."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या यह नियमित साधन है?",
+      "जवाब: नहीं, यह सिर्फ आपातकाल के लिए है – बार-बार नहीं लेनी चाहिए।"
+     ],
+     "en": [
+      "Q: Is it a regular method?",
+      "A: No, it is only for emergencies and should not be taken repeatedly."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या इसका गर्भपात से कोई संबंध है?",
+      "जवाब: नहीं, यह गर्भ ठहरने से रोकती है। यह पहले से ठहरे गर्भ पर असर नहीं करती।"
+     ],
+     "en": [
+      "Q: Is it related to abortion?",
+      "A: No. It prevents a pregnancy from starting and does not affect an existing pregnancy."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Q&A",
+     "hi": [
+      "सवाल: क्या इससे साइड इफेक्ट होते हैं?",
+      "जवाब: हल्का सिरदर्द, पेट दर्द या माहवारी में बदलाव हो सकता है।"
+     ],
+     "en": [
+      "Q: Does it have side effects?",
+      "A: Mild headache, stomach ache or a change in periods may occur."
+     ],
+     "plain": true
+    },
+    {
+     "label": "Next step",
+     "hi": "सवाल का जवाब नहीं मिला? सखी हेल्पलाइन 1800 202 5862 (मुफ़्त), सुबह 8 से रात 8 बजे तक",
+     "en": "Didn't find your answer? Sakhi Helpline 1800 202 5862 (free), 8 am to 8 pm"
+    }
+   ]
+  },
+  {
+   "no": "10",
+   "hi": "नए लेख",
+   "en": "Blog",
+   "url": "/blog",
+   "en_url": "/en/blog",
+   "seo": {
+    "kw": [],
+    "ti": [
+     "ब्लॉग: गर्भनिरोध पर सवाल और जवाब | विकल्प",
+     "Blog: contraception questions answered | Vikalp"
+    ],
+    "md": [
+     "गर्भनिरोध और परिवार नियोजन से जुड़े सवालों के सीधे और भरोसेमंद जवाब, आसान भाषा में।",
+     "Straight, trustworthy answers on contraception and family planning, in simple language."
+    ],
+    "sc": "Blog",
+    "en_kw": "articles carry their own keywords (see blog topics document)"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "नए लेख",
+     "en": "Latest articles"
+    },
+    {
+     "label": "Intro",
+     "hi": "गर्भनिरोध और परिवार नियोजन से जुड़े सवालों के सीधे और भरोसेमंद जवाब, आसान भाषा में।",
+     "en": "Clear, trustworthy answers to your questions on contraception and family planning, in simple words."
+    },
+    {
+     "label": "Filters",
+     "hi": "सभी · पहला बच्चा · बच्चों में अंतर · साधन · मिथक",
+     "en": "All · First baby · Next baby · Methods · Myths"
+    }
+   ]
+  },
+  {
+   "no": "11",
+   "hi": "सखी हेल्पलाइन",
+   "en": "Sakhi Helpline",
+   "url": "/sakhi-helpline",
+   "en_url": "/en/sakhi-helpline",
+   "seo": {
+    "kw": [
+     [
+      "sakhi helpline number",
+      "सखी हेल्पलाइन नंबर"
+     ],
+     [
+      "family planning helpline number",
+      "family planning helpline number"
+     ],
+     [
+      "parivar niyojan helpline number",
+      "परिवार नियोजन हेल्पलाइन नंबर"
+     ]
+    ],
+    "ti": [
+     "सखी हेल्पलाइन नंबर 1800 202 5862: परिवार नियोजन हेल्पलाइन",
+     "Sakhi Helpline number: free family planning helpline | Vikalp"
+    ],
+    "md": [
+     "सखी हेल्पलाइन नंबर 1800 202 5862: मुफ़्त, गोपनीय परिवार नियोजन हेल्पलाइन। सुबह 8 से रात 8 बजे तक, सातों दिन।",
+     "Sakhi Helpline 1800 202 5862: a free, confidential family planning helpline number. 8 am to 8 pm, seven days a week."
+    ],
+    "sc": "Organization (ContactPoint)",
+    "en_kw": "family planning helpline number · sakhi helpline number"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "सखी हेल्पलाइन नंबर क्या है? 1800 202 5862 (मुफ़्त)",
+     "en": "What is the Sakhi Helpline number? 1800 202 5862 (free)"
+    },
+    {
+     "label": "Short answer",
+     "hi": "सखी हेल्पलाइन (1800 202 5862) एक मुफ़्त परिवार नियोजन हेल्पलाइन नंबर है। प्रशिक्षित परामर्शदाता गर्भनिरोध से जुड़े आपके हर सवाल का जवाब गोपनीय रूप से देते हैं। समय: सुबह 8 से रात 8 बजे तक, सातों दिन।",
+     "en": "Sakhi Helpline (1800 202 5862) is a free family planning helpline number. Trained counsellors answer your questions about contraception in confidence. Hours: 8 am to 8 pm, seven days a week."
+    },
+    {
+     "label": "H2",
+     "hi": "कॉल करने पर क्या होता है?",
+     "en": "What happens when you call?"
+    },
+    {
+     "label": "Key points",
+     "hi": [
+      "परामर्शदाता आपकी ज़रूरत सुनकर साधनों के बारे में समझाएँगे।",
+      "आपको बताया जाएगा कि साधन नज़दीक में कहाँ मुफ़्त मिलेगा।",
+      "कोई शुल्क नहीं, कोई दबाव नहीं।"
+     ],
+     "en": [
+      "The counsellor listens and explains the methods that suit you.",
+      "You will be told where to get a method free near you.",
+      "No charge, no pressure."
+     ]
+    },
+    {
+     "label": "H2",
+     "hi": "यह हेल्पलाइन कौन चलाता है?",
+     "en": "Who runs the helpline?"
+    },
+    {
+     "label": "Body",
+     "hi": "सखी हेल्पलाइन विकल्प परियोजना द्वारा संचालित है। विकल्प परियोजना मध्यप्रदेश और राजस्थान में आईपास डेवलपमेंट फाउंडेशन के सहयोग से चलाई जा रही है और राज्यों में सरकार के परिवार नियोजन कार्यक्रम को सहयोग देती है। इसका लक्ष्य युवा दंपतियों में बेहतर स्वास्थ्य के लिए परिवार नियोजन के प्रति जागरूकता बढ़ाना है।",
+     "en": "Sakhi Helpline is run by the Vikalp project. The project is implemented in Madhya Pradesh and Rajasthan with the support of Ipas Development Foundation, and supports the state governments' family planning programmes. Its aim is to raise awareness of family planning among young couples for better health."
+    },
+    {
+     "label": "ASHA line",
+     "hi": "अधिक जानकारी के लिए अपनी आशा कार्यकर्ता से भी संपर्क कर सकते हैं।",
+     "en": "You can also ask your ASHA worker for more information."
+    }
+   ]
+  },
+  {
+   "no": "12",
+   "hi": "गोपनीयता नीति",
+   "en": "Privacy policy",
+   "url": "/privacy-policy",
+   "en_url": "/en/privacy-policy",
+   "seo": {
+    "kw": [],
+    "ti": [
+     "गोपनीयता नीति | विकल्प",
+     "Privacy policy | Vikalp"
+    ],
+    "md": [
+     "विकल्प वेबसाइट आपकी निजी जानकारी नहीं माँगती। हम कौन से आँकड़े रखते हैं और आपकी अनुमति कैसे लेते हैं।",
+     "The Vikalp website does not ask for your personal information. What statistics we keep and how we ask for your consent."
+    ],
+    "sc": "WebPage",
+    "en_kw": "—"
+   },
+   "blocks": [
+    {
+     "label": "H1",
+     "hi": "गोपनीयता नीति",
+     "en": "Privacy policy"
+    },
+    {
+     "label": "Intro",
+     "hi": "यह वेबसाइट आपकी निजी जानकारी नहीं माँगती। हम आपका नाम, फ़ोन नंबर या ईमेल इकट्ठा नहीं करते।",
+     "en": "This website does not ask for your personal information. We do not collect your name, phone number or email."
+    },
+    {
+     "label": "What we collect",
+     "hi": [
+      "वेबसाइट इस्तेमाल के आँकड़े (कौन से पेज देखे गए, कितनी देर), बिना आपकी पहचान के, और सिर्फ़ आपकी अनुमति के बाद।",
+      "खेल और तुलना टूल में दिए जवाब, बिना किसी नाम या पहचान के, सिर्फ़ यह समझने के लिए कि लोगों को कौन सी जानकारी चाहिए।"
+     ],
+     "en": [
+      "Website usage statistics (pages viewed, time spent), without identifying you, and only after you consent.",
+      "Answers given in the quiz and comparison tool, with no name or identifier, only to understand what information people need."
+     ]
+    },
+    {
+     "label": "Cookies",
+     "hi": "पहली बार आने पर हम आपसे पूछेंगे कि क्या आप आँकड़ों के लिए कुकीज़ की अनुमति देते हैं। अनुमति न दें, तब भी पूरी वेबसाइट काम करेगी।",
+     "en": "On your first visit we ask whether you allow cookies for statistics. The whole website works even if you say no."
+    },
+    {
+     "label": "Sharing",
+     "hi": "यह जानकारी किसी को बेची या दी नहीं जाती। आँकड़े सिर्फ़ आईपास डेवलपमेंट फाउंडेशन और उसकी डिजिटल एजेंसी देखते हैं।",
+     "en": "This information is never sold or shared. Statistics are seen only by Ipas Development Foundation and its digital agency."
+    },
+    {
+     "label": "Helpline calls",
+     "hi": "सखी हेल्पलाइन पर बातचीत गोपनीय रहती है।",
+     "en": "Conversations on the Sakhi Helpline are kept confidential."
+    },
+    {
+     "label": "Contact",
+     "hi": "गोपनीयता से जुड़े सवाल: [IDF का ईमेल पता]",
+     "en": "Privacy questions: [IDF email address]"
+    }
+   ]
+  }
+ ]
+}
