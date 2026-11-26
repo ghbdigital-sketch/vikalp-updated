@@ -144,7 +144,7 @@ function countUp(el, to, ms = 900) { if (RM) { el.textContent = to; return } con
     $$('.mqb button', box).forEach(x => { x.disabled = true; x.classList.toggle('chosen', x === b) });
     box.classList.add(ok ? 'right' : 'wrong');
     const r = $('.mqr', box);
-    r.innerHTML = ok ? '<i>✓</i>' + T('सही! यह सुनी-सुनाई बात है।', 'Right! This is a myth.') : '<i>✗</i>' + T('नहीं, यह सुनी-सुनाई बात है।', 'No, this is a myth.');
+    r.innerHTML = ok ? '<i>✓</i>' + T('सही जवाब! यह सुनी-सुनाई बात है।', 'Correct answer! This is a myth.') : '<i>✗</i>' + T('नहीं, यह सुनी-सुनाई बात है।', 'No, this is a myth.');
     $('.mqa', box).hidden = false; if (ok && window.FX) { const rc = b.getBoundingClientRect(); FX.burst(rc.left + rc.width / 2, rc.top, { n: 50, up: true, spread: Math.PI * .8, v: 9 }) }
     window.dispatchEvent(new Event('vk-decorate'));
   });
@@ -213,9 +213,9 @@ function countUp(el, to, ms = 900) { if (RM) { el.textContent = to; return } con
     $$('.journey').forEach(box => {
       const data = JSON.parse($('.jdata', box).textContent); const done = data.filter(d => seen.includes(d.k)).length;
       const draw = () => {
-        $('.jc', box).textContent = T(`आपने ${data.length} में से ${done} विषय पढ़े हैं`, `You have read ${done} of ${data.length} topics`);
+        $('.jc', box).textContent = T(`आपने इस वेबसाइट के ${data.length} में से ${done} पेज पढ़े हैं`, `You have read ${done} of the ${data.length} pages on this website`);
         const next = data.filter(d => !seen.includes(d.k)).slice(0, 3);
-        $('.jsug', box).innerHTML = next.length ? next.map(d => `<a class="js1" href="${d.href}"><span class="ic">${d.ic}</span><b>${T(d.hi, d.en)}</b><span aria-hidden="true">→</span></a>`).join('') : `<p class="jdone">${T('शाबाश! आपने सभी विषय पढ़ लिए हैं।', 'Well done! You have read every topic.')}</p>`;
+        $('.jsug', box).innerHTML = next.length ? next.map(d => `<a class="js1" href="${d.href}"><span class="ic">${d.ic}</span><b>${T(d.hi, d.en)}</b><span aria-hidden="true">→</span></a>`).join('') : `<p class="jdone">${T('शाबाश! आपने इस वेबसाइट के सभी पेज पढ़ लिए हैं।', 'Well done! You have read every page on this website.')}</p>`;
         window.dispatchEvent(new Event('vk-decorate'));
       };
       draw(); addEventListener('langchange', draw);
